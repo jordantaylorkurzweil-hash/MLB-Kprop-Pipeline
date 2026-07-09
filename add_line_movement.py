@@ -10,7 +10,6 @@ from pathlib import Path
 from datetime import datetime
 from collections import Counter
 
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "repo"))
 from _paths import WORKSPACE
 
 ap = argparse.ArgumentParser()
