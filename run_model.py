@@ -22,8 +22,6 @@ import sys
 from pathlib import Path
 from datetime import datetime
 
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "repo"))
-
 from _paths import WORKSPACE
 from fangraphs_loader import load_fg_csv
 from odds_api_loader import get_pitcher_strikeouts, best_under_juice, best_under_for_bettor
@@ -112,7 +110,7 @@ def classify(name, swstr, whiff):
 
 
 # ── Savant cache wrapper ──────────────────────────────────────────────────────
-_SAVANT_CACHE_PATH = Path(__file__).resolve().parent.parent / "repo" / ".savant_cache.json"
+_SAVANT_CACHE_PATH = Path(__file__).resolve().parent / ".savant_cache.json"
 if _SAVANT_CACHE_PATH.exists():
     _SAVANT = json.load(open(_SAVANT_CACHE_PATH))["2026"]["data"]
 else:
@@ -172,7 +170,7 @@ SLATE_PATH = _args.slate_file or str(WORKSPACE / f"slate_{DATE_STR}_{SLATE_TYPE}
 if not os.path.exists(SLATE_PATH):
     raise SystemExit(
         f"Slate file not found: {SLATE_PATH}\n"
-        f"Run: python scripts/mlb_slate_puller.py {DATE_STR} --out {SLATE_PATH}"
+        f"Run: python mlb_slate_puller.py {DATE_STR} --out {SLATE_PATH}"
         + (" --late-after 19:00" if SLATE_TYPE == "late" else "")
     )
 
