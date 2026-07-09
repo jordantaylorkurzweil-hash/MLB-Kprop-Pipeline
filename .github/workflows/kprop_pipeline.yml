@@ -46,7 +46,37 @@ jobs:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: |
           DATE=${{ steps.dt.outputs.today }}
-          python scripts/mlb_slate_puller.py "$DATE" --out "workspace/slate_${DATE}_am.json"
-          python repo/savant_pull.py ${{ steps.dt.outputs.year }}
-          python runners/run_model.py "$DATE" --slate am
-          python
+          python mlb_slate_puller.py "$DATE" --out "workspace/slate_${DATE}_am.json"
+          python savant_pull.py ${{ steps.dt.outputs.year }}
+          python run_model.py "$DATE" --slate am
+          python build_workbook.py "$DATE" --slate am
+
+      # ── 5:30 PM ET — late slate refresh ──────────────────────────────────
+      - name: Late slate pull + model run + workbook
+        if: github.event.schedule == '30 21 * * *' || github.event_name == 'workflow_dispatch'
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: |
+          DATE=${{ steps.dt.outputs.today }}
+          python mlb_slate_puller.py "$DATE" --late-after 19:00 --out "workspace/slate_${DATE}_late.json"
+          python run_model.py "$DATE" --slate late
+          python add_line_movement.py "$DATE"
+          python build_workbook.py "$DATE" --slate late
+
+      # ── 6:00 AM ET — grade yesterday's picks ─────────────────────────────
+      - name: Backtest yesterday's slate
+        if: github.event.schedule == '0 10 * * *' || github.event_name == 'workflow_dispatch'
+        run: |
+          YDATE=${{ steps.dt.outputs.yesterday }}
+          python mlb_results_puller.py "$YDATE" --out "workspace/results_${YDATE}.json"
+          python build_backtest.py "$YDATE"
+
+      - name: Upload outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: kprop-outputs-${{ steps.dt.outputs.today }}
+          path: |
+            workspace/*.xlsx
+            workspace/*.csv
+            workspace/*.json
+          retention-days: 30
