@@ -1,0 +1,52 @@
+name: MLB K-Prop Pipeline
+
+# Replaces the 3 Perplexity "computer" scheduled tasks with free GitHub Actions
+# compute. Same 3 trigger times, but now running plain Python instead of
+# paying an LLM agent to re-derive the same steps every day.
+#
+# IMPORTANT — the one manual step this doesn't remove:
+#   FanGraphs' full leaderboard is paywalled. Drop your exported
+#   fangraphs-leaderboards*.csv into workspace/ and commit/push it BEFORE
+#   the 11am ET run, same as you did before (this was never an LLM task —
+#   it's a ~30 second manual export either way). Everything else below is
+#   fully automatic.
+
+on:
+  schedule:
+    - cron: "0 15 * * *"   # 11:00 AM ET (EDT/UTC-4) — AM full-slate run
+    - cron: "30 21 * * *"  # 5:30 PM ET (EDT/UTC-4) — late-slate refresh
+    - cron: "0 10 * * *"   # 6:00 AM ET (EDT/UTC-4) — prior day's backtest
+  workflow_dispatch:        # manual "Run workflow" button for testing
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Determine ET date
+        id: dt
+        run: |
+          echo "today=$(TZ=America/New_York date +%F)" >> "$GITHUB_OUTPUT"
+          echo "yesterday=$(TZ=America/New_York date -d 'yesterday' +%F)" >> "$GITHUB_OUTPUT"
+          echo "year=$(TZ=America/New_York date +%Y)" >> "$GITHUB_OUTPUT"
+
+      # ── 11:00 AM ET — AM full slate ──────────────────────────────────────
+      - name: AM slate pull + model run + workbook
+        if: github.event.schedule == '0 15 * * *' || github.event_name == 'workflow_dispatch'
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: |
+          DATE=${{ steps.dt.outputs.today }}
+          python scripts/mlb_slate_puller.py "$DATE" --out "workspace/slate_${DATE}_am.json"
+          python repo/savant_pull.py ${{ steps.dt.outputs.year }}
+          python runners/run_model.py "$DATE" --slate am
+          python
