@@ -1,17 +1,17 @@
 """
 _paths.py — single source of truth for where the pipeline reads/writes files.
 
-Replaces the old hardcoded `/home/user/workspace` (a path that only existed
-inside Perplexity's sandboxed compute agent). Every other script imports
-WORKSPACE from here instead of hardcoding a path.
+Flat repo layout: this file sits at the repo root alongside every other
+script, so REPO_ROOT is just this file's own directory.
 
 Override with the KPROP_WORKSPACE env var if you ever want output to go
-somewhere else (e.g. a mounted volume). Defaults to <repo_root>/workspace,
-which is where GitHub Actions checks the repo out to.
+somewhere else. Defaults to <repo_root>/workspace, which is where GitHub
+Actions checks the repo out to.
 """
 import os
 from pathlib import Path
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
+REPO_ROOT = Path(__file__).resolve().parent
 WORKSPACE = Path(os.environ.get("KPROP_WORKSPACE", str(REPO_ROOT / "workspace")))
 WORKSPACE.mkdir(parents=True, exist_ok=True)
+
