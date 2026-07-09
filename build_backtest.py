@@ -25,7 +25,6 @@ import sys
 from pathlib import Path
 from datetime import datetime
 
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "repo"))
 from _paths import WORKSPACE
 
 ap = argparse.ArgumentParser(description="Build backtest CSV grading a date's BF picks")
@@ -63,7 +62,7 @@ results_path = _args.results_file or str(WORKSPACE / f"results_{DATE_STR}.json")
 if not Path(results_path).exists():
     raise SystemExit(
         f"Results file not found: {results_path}\n"
-        f"Run: python scripts/mlb_results_puller.py {DATE_STR} --out {results_path}"
+        f"Run: python mlb_results_puller.py {DATE_STR} --out {results_path}"
     )
 results = json.load(open(results_path))
 
