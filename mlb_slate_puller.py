@@ -234,6 +234,7 @@ if __name__ == "__main__":
 
     slate = build_slate(args.date, late_after=args.late_after)
     out_path = args.out or f"slate_{args.date}.json"
+    Path(out_path).parent.mkdir(parents=True, exist_ok=True)
     with open(out_path, "w") as f:
         json.dump(slate, f, indent=2)
     print(f"Wrote {len(slate['games'])} games -> {out_path}")
