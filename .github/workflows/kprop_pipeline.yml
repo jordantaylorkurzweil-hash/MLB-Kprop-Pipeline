@@ -4,12 +4,9 @@ name: MLB K-Prop Pipeline
 # compute. Same 3 trigger times, but now running plain Python instead of
 # paying an LLM agent to re-derive the same steps every day.
 #
-# IMPORTANT — the one manual step this doesn't remove:
-#   FanGraphs' full leaderboard is paywalled. Drop your exported
-#   fangraphs-leaderboards*.csv into workspace/ and commit/push it BEFORE
-#   the 11am ET run, same as you did before (this was never an LLM task —
-#   it's a ~30 second manual export either way). Everything else below is
-#   fully automatic.
+# FanGraphs CSV export is now automatic (fangraphs_stats_puller.py, free via
+# pybaseball) — no manual drop needed. It has a built-in sanity check and
+# will fail loudly (not silently) if the pull looks broken.
 
 on:
   schedule:
@@ -46,6 +43,7 @@ jobs:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: |
           DATE=${{ steps.dt.outputs.today }}
+          python fangraphs_stats_puller.py ${{ steps.dt.outputs.year }} --out "workspace/fangraphs-leaderboards_${{ steps.dt.outputs.year }}.csv"
           python mlb_slate_puller.py "$DATE" --out "workspace/slate_${DATE}_am.json"
           python savant_pull.py ${{ steps.dt.outputs.year }}
           python run_model.py "$DATE" --slate am
