@@ -17,7 +17,6 @@ from openpyxl.styles import Font, PatternFill, Alignment, Border, Side, NamedSty
 from openpyxl.utils import get_column_letter
 from openpyxl.formatting.rule import CellIsRule
 
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "repo"))
 from _paths import WORKSPACE
 
 ap = argparse.ArgumentParser(description="Build the 8-tab K-prop workbook for a given slate")
