@@ -1,0 +1,353 @@
+{
+  "version": "v3.6.2",
+  "as_of": "2026-05-29",
+  "source": "Todd Zola, RotoWire \u2014 The Z Files: 2026 Pitching and Hitting Park Factors (published 2026-05-17)",
+  "source_url": "https://www.rotowire.com/baseball/article/the-z-files-2026-fantasy-baseball-pitching-hitting-park-factors-114824",
+  "methodology": "Rolling 3-yr SO park index (100=neutral). Exceptions: BAL 2024-25 (Walltimore reset), TBR 2022-24 (returned to Tropicana), ATH 2025-only (Sutter Health Park, 1 season).",
+  "scale_note": "Stored value is K-shift in absolute Ks per start at scale (idx-100)/30. Positive = K-inflating park (pitcher's Ks UP). Apply directly as additive K shift in projection.",
+  "scale_factor_in_runner": 1.0,
+  "team_to_park": {
+    "LAA": "Angel Stadium",
+    "HOU": "Daikin Park",
+    "ATH": "Sutter Health Park",
+    "TOR": "Rogers Centre",
+    "ATL": "Truist Park",
+    "MIL": "American Family Field",
+    "STL": "Busch Stadium",
+    "CHC": "Wrigley Field",
+    "ARI": "Chase Field",
+    "LAD": "Dodger Stadium",
+    "SFG": "Oracle Park",
+    "CLE": "Progressive Field",
+    "SEA": "T-Mobile Park",
+    "MIA": "loanDepot park",
+    "NYM": "Citi Field",
+    "WSN": "Nationals Park",
+    "BAL": "Oriole Park at Camden Yards",
+    "SDP": "Petco Park",
+    "PHI": "Citizens Bank Park",
+    "PIT": "PNC Park",
+    "TEX": "Globe Life Field",
+    "TBR": "Tropicana Field",
+    "BOS": "Fenway Park",
+    "CIN": "Great American Ball Park",
+    "COL": "Coors Field",
+    "KCR": "Kauffman Stadium",
+    "DET": "Comerica Park",
+    "MIN": "Target Field",
+    "CWS": "Rate Field",
+    "NYY": "Yankee Stadium"
+  },
+  "factors_overall": {
+    "Angel Stadium": 0.167,
+    "Daikin Park": 0.067,
+    "Sutter Health Park": -0.1,
+    "Rogers Centre": -0.1,
+    "Truist Park": 0.2,
+    "American Family Field": 0.3,
+    "Busch Stadium": -0.3,
+    "Wrigley Field": 0.1,
+    "Chase Field": -0.2,
+    "Dodger Stadium": -0.033,
+    "Oracle Park": -0.1,
+    "Progressive Field": 0.067,
+    "T-Mobile Park": 0.533,
+    "loanDepot park": -0.1,
+    "Citi Field": 0.067,
+    "Nationals Park": -0.333,
+    "Oriole Park at Camden Yards": -0.1,
+    "Petco Park": 0.067,
+    "Citizens Bank Park": 0.133,
+    "PNC Park": -0.133,
+    "Globe Life Field": 0.033,
+    "Tropicana Field": 0.267,
+    "Fenway Park": -0.133,
+    "Great American Ball Park": 0.067,
+    "Coors Field": -0.333,
+    "Kauffman Stadium": -0.367,
+    "Comerica Park": -0.067,
+    "Target Field": 0.1,
+    "Rate Field": 0.0,
+    "Yankee Stadium": 0.033
+  },
+  "factors_RHB": {
+    "Angel Stadium": 0.2,
+    "Daikin Park": 0.033,
+    "Sutter Health Park": -0.233,
+    "Rogers Centre": -0.3,
+    "Truist Park": 0.2,
+    "American Family Field": 0.233,
+    "Busch Stadium": -0.3,
+    "Wrigley Field": 0.0,
+    "Chase Field": -0.233,
+    "Dodger Stadium": -0.067,
+    "Oracle Park": -0.133,
+    "Progressive Field": 0.2,
+    "T-Mobile Park": 0.6,
+    "loanDepot park": -0.1,
+    "Citi Field": 0.067,
+    "Nationals Park": -0.233,
+    "Oriole Park at Camden Yards": 0.067,
+    "Petco Park": 0.133,
+    "Citizens Bank Park": 0.1,
+    "PNC Park": -0.133,
+    "Globe Life Field": 0.067,
+    "Tropicana Field": 0.1,
+    "Fenway Park": 0.133,
+    "Great American Ball Park": 0.0,
+    "Coors Field": -0.367,
+    "Kauffman Stadium": -0.333,
+    "Comerica Park": -0.133,
+    "Target Field": 0.033,
+    "Rate Field": 0.033,
+    "Yankee Stadium": 0.133
+  },
+  "factors_LHB": {
+    "Angel Stadium": 0.1,
+    "Daikin Park": 0.167,
+    "Sutter Health Park": 0.133,
+    "Rogers Centre": 0.233,
+    "Truist Park": 0.167,
+    "American Family Field": 0.4,
+    "Busch Stadium": -0.3,
+    "Wrigley Field": 0.2,
+    "Chase Field": -0.167,
+    "Dodger Stadium": 0.067,
+    "Oracle Park": -0.033,
+    "Progressive Field": -0.1,
+    "T-Mobile Park": 0.467,
+    "loanDepot park": -0.067,
+    "Citi Field": 0.1,
+    "Nationals Park": -0.467,
+    "Oriole Park at Camden Yards": -0.133,
+    "Petco Park": -0.033,
+    "Citizens Bank Park": 0.133,
+    "PNC Park": -0.133,
+    "Globe Life Field": -0.033,
+    "Tropicana Field": 0.533,
+    "Fenway Park": -0.4,
+    "Great American Ball Park": 0.2,
+    "Coors Field": -0.3,
+    "Kauffman Stadium": -0.433,
+    "Comerica Park": 0.033,
+    "Target Field": 0.2,
+    "Rate Field": -0.067,
+    "Yankee Stadium": -0.067
+  },
+  "factors_SH": {
+    "Angel Stadium": 0.133,
+    "Daikin Park": 0.133,
+    "Sutter Health Park": 0.033,
+    "Rogers Centre": 0.1,
+    "Truist Park": 0.167,
+    "American Family Field": 0.367,
+    "Busch Stadium": -0.3,
+    "Wrigley Field": 0.133,
+    "Chase Field": -0.2,
+    "Dodger Stadium": 0.033,
+    "Oracle Park": -0.067,
+    "Progressive Field": 0.0,
+    "T-Mobile Park": 0.5,
+    "loanDepot park": -0.067,
+    "Citi Field": 0.1,
+    "Nationals Park": -0.4,
+    "Oriole Park at Camden Yards": -0.067,
+    "Petco Park": 0.0,
+    "Citizens Bank Park": 0.133,
+    "PNC Park": -0.133,
+    "Globe Life Field": 0.0,
+    "Tropicana Field": 0.4,
+    "Fenway Park": -0.267,
+    "Great American Ball Park": 0.133,
+    "Coors Field": -0.333,
+    "Kauffman Stadium": -0.4,
+    "Comerica Park": 0.0,
+    "Target Field": 0.167,
+    "Rate Field": -0.033,
+    "Yankee Stadium": 0.0
+  },
+  "raw_indices_overall": {
+    "Angel Stadium": 105,
+    "Daikin Park": 102,
+    "Sutter Health Park": 97,
+    "Rogers Centre": 97,
+    "Truist Park": 106,
+    "American Family Field": 109,
+    "Busch Stadium": 91,
+    "Wrigley Field": 103,
+    "Chase Field": 94,
+    "Dodger Stadium": 99,
+    "Oracle Park": 97,
+    "Progressive Field": 102,
+    "T-Mobile Park": 116,
+    "loanDepot park": 97,
+    "Citi Field": 102,
+    "Nationals Park": 90,
+    "Oriole Park at Camden Yards": 97,
+    "Petco Park": 102,
+    "Citizens Bank Park": 104,
+    "PNC Park": 96,
+    "Globe Life Field": 101,
+    "Tropicana Field": 108,
+    "Fenway Park": 96,
+    "Great American Ball Park": 102,
+    "Coors Field": 90,
+    "Kauffman Stadium": 89,
+    "Comerica Park": 98,
+    "Target Field": 103,
+    "Rate Field": 100,
+    "Yankee Stadium": 101
+  },
+  "raw_indices_RLS": {
+    "Angel Stadium": [
+      106,
+      103,
+      104
+    ],
+    "Daikin Park": [
+      101,
+      105,
+      104
+    ],
+    "Sutter Health Park": [
+      93,
+      104,
+      101
+    ],
+    "Rogers Centre": [
+      91,
+      107,
+      103
+    ],
+    "Truist Park": [
+      106,
+      105,
+      105
+    ],
+    "American Family Field": [
+      107,
+      112,
+      111
+    ],
+    "Busch Stadium": [
+      91,
+      91,
+      91
+    ],
+    "Wrigley Field": [
+      100,
+      106,
+      104
+    ],
+    "Chase Field": [
+      93,
+      95,
+      94
+    ],
+    "Dodger Stadium": [
+      98,
+      102,
+      101
+    ],
+    "Oracle Park": [
+      96,
+      99,
+      98
+    ],
+    "Progressive Field": [
+      106,
+      97,
+      100
+    ],
+    "T-Mobile Park": [
+      118,
+      114,
+      115
+    ],
+    "loanDepot park": [
+      97,
+      98,
+      98
+    ],
+    "Citi Field": [
+      102,
+      103,
+      103
+    ],
+    "Nationals Park": [
+      93,
+      86,
+      88
+    ],
+    "Oriole Park at Camden Yards": [
+      102,
+      96,
+      98
+    ],
+    "Petco Park": [
+      104,
+      99,
+      100
+    ],
+    "Citizens Bank Park": [
+      103,
+      104,
+      104
+    ],
+    "PNC Park": [
+      96,
+      96,
+      96
+    ],
+    "Globe Life Field": [
+      102,
+      99,
+      100
+    ],
+    "Tropicana Field": [
+      103,
+      116,
+      112
+    ],
+    "Fenway Park": [
+      104,
+      88,
+      92
+    ],
+    "Great American Ball Park": [
+      100,
+      106,
+      104
+    ],
+    "Coors Field": [
+      89,
+      91,
+      90
+    ],
+    "Kauffman Stadium": [
+      90,
+      87,
+      88
+    ],
+    "Comerica Park": [
+      96,
+      101,
+      100
+    ],
+    "Target Field": [
+      101,
+      106,
+      105
+    ],
+    "Rate Field": [
+      101,
+      98,
+      99
+    ],
+    "Yankee Stadium": [
+      104,
+      98,
+      100
+    ]
+  }
+}

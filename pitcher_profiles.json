@@ -1,0 +1,257 @@
+{
+  "_README": "Slow-moving injury-history fields not available from any of the 7 canonical sources. Keyed by pitcher name (must match FanGraphs SP Leaderboard spelling). Fields: age, prior_arm_il_season, prior_arm_il_career, recent_pitch_counts (v3.6 — list of most recent pitch counts, newest first, up to 3), prev_start_pc (legacy scalar, used only if recent_pitch_counts is missing), ip_pace_spike_pct, is_lhp, elbow_history, start_number. Pitchers not listed here fall back to PROFILE_DEFAULTS in slate_loader.py.",
+  "_EXAMPLE_PITCHER": {
+    "age": 32,
+    "prior_arm_il_season": false,
+    "prior_arm_il_career": 1,
+    "recent_pitch_counts": [
+      98,
+      91,
+      104
+    ],
+    "ip_pace_spike_pct": 5.2,
+    "is_lhp": false,
+    "elbow_history": false,
+    "start_number": 11
+  },
+  "Kevin Gausman": {
+    "recent_pitch_counts": [
+      94,
+      97,
+      100
+    ],
+    "prev_start_pc": 94
+  },
+  "Jeffrey Springs": {
+    "recent_pitch_counts": [
+      95,
+      92,
+      98
+    ],
+    "prev_start_pc": 95
+  },
+  "Freddy Peralta": {
+    "recent_pitch_counts": [
+      108,
+      96,
+      100
+    ],
+    "prev_start_pc": 108
+  },
+  "Paul Skenes": {
+    "recent_pitch_counts": [
+      98,
+      92,
+      98
+    ],
+    "prev_start_pc": 98
+  },
+  "Max Meyer": {
+    "recent_pitch_counts": [
+      95,
+      97,
+      96
+    ],
+    "prev_start_pc": 95
+  },
+  "Nolan McLean": {
+    "recent_pitch_counts": [
+      100,
+      93,
+      100
+    ],
+    "prev_start_pc": 100
+  },
+  "Ryan Weathers": {
+    "recent_pitch_counts": [
+      95,
+      90,
+      101
+    ],
+    "prev_start_pc": 95
+  },
+  "Gavin Williams": {
+    "recent_pitch_counts": [
+      99,
+      93,
+      101
+    ],
+    "prev_start_pc": 99
+  },
+  "George Kirby": {
+    "recent_pitch_counts": [
+      92,
+      98,
+      99
+    ],
+    "prev_start_pc": 92
+  },
+  "Yoshinobu Yamamoto": {
+    "recent_pitch_counts": [
+      92,
+      107,
+      93
+    ],
+    "prev_start_pc": 92
+  },
+  "Anthony Kay": {
+    "recent_pitch_counts": [
+      89,
+      97,
+      88
+    ],
+    "prev_start_pc": 89
+  },
+  "Jack Flaherty": {
+    "recent_pitch_counts": [
+      78,
+      90,
+      97
+    ],
+    "prev_start_pc": 78
+  },
+  "Seth Lugo": {
+    "recent_pitch_counts": [
+      87,
+      93,
+      92
+    ],
+    "prev_start_pc": 87
+  },
+  "Aaron Nola": {
+    "recent_pitch_counts": [
+      77,
+      80,
+      94
+    ],
+    "prev_start_pc": 77
+  },
+  "Framber Valdez": {
+    "recent_pitch_counts": [
+      92,
+      90,
+      106
+    ],
+    "prev_start_pc": 92
+  },
+  "Merrill Kelly": {
+    "recent_pitch_counts": [
+      85,
+      100,
+      98
+    ],
+    "prev_start_pc": 85
+  },
+  "Miles Mikolas": {
+    "recent_pitch_counts": [
+      66,
+      93,
+      71
+    ],
+    "prev_start_pc": 66
+  },
+  "Reid Detmers": {
+    "recent_pitch_counts": [
+      96,
+      92,
+      102
+    ],
+    "prev_start_pc": 96
+  },
+  "Robbie Ray": {
+    "recent_pitch_counts": [
+      92,
+      84,
+      95
+    ],
+    "prev_start_pc": 92
+  },
+  "Trevor Rogers": {
+    "recent_pitch_counts": [
+      90,
+      89,
+      73
+    ],
+    "prev_start_pc": 90
+  },
+  "Bubba Chandler": {
+    "recent_pitch_counts": [
+      99,
+      77,
+      77
+    ],
+    "prev_start_pc": 99
+  },
+  "Jacob deGrom": {
+    "recent_pitch_counts": [
+      65,
+      94,
+      94
+    ],
+    "prev_start_pc": 65
+  },
+  "Michael Soroka": {
+    "recent_pitch_counts": [
+      78,
+      98,
+      89
+    ],
+    "prev_start_pc": 78
+  },
+  "Noah Cameron": {
+    "recent_pitch_counts": [
+      96,
+      82,
+      95
+    ],
+    "prev_start_pc": 96
+  },
+  "Foster Griffin": {
+    "recent_pitch_counts": [
+      90,
+      97,
+      92
+    ],
+    "prev_start_pc": 90
+  },
+  "Tarik Skubal": {
+    "recent_pitch_counts": [
+      91,
+      94,
+      89
+    ],
+    "prev_start_pc": 91
+  },
+  "Sandy Alcantara": {
+    "recent_pitch_counts": [
+      94,
+      101,
+      89
+    ],
+    "prev_start_pc": 94
+  },
+  "Eduardo Rodriguez": {
+    "recent_pitch_counts": [
+      99,
+      91,
+      100
+    ],
+    "prev_start_pc": 99
+  },
+  "Michael King": {
+    "recent_pitch_counts": [
+      81,
+      100,
+      99
+    ],
+    "prev_start_pc": 81
+  },
+  "Cris. Sanchez": {
+    "recent_pitch_counts": [
+      96,
+      108,
+      103
+    ],
+    "prev_start_pc": 96
+  }
+}

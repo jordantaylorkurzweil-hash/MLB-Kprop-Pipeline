@@ -1,0 +1,517 @@
+{
+  "_note": "Manual supplement: GS, IP, CSW%, SwStr% for pitchers whose FG CSV lacks these columns. Loaded as a fallback by fangraphs_loader.py. SwStr% drives the classification override rule.",
+  "_source": "User-provided 2026-05-27 (FG custom dashboard, 73 pitchers)",
+  "pitchers": {
+    "Jacob Misiorowski": {
+      "Team": "MIL",
+      "GS": 11,
+      "IP": 64.0,
+      "CSW%": 36.0,
+      "SwStr%": 17.5
+    },
+    "Nathan Eovaldi": {
+      "Team": "TEX",
+      "GS": 10,
+      "IP": 61.2,
+      "CSW%": 29.6,
+      "SwStr%": 15.4
+    },
+    "Dylan Cease": {
+      "Team": "TOR",
+      "GS": 11,
+      "IP": 62.0,
+      "CSW%": 31.1,
+      "SwStr%": 15.3
+    },
+    "Chase Burns": {
+      "Team": "CIN",
+      "GS": 11,
+      "IP": 64.1,
+      "CSW%": 28.9,
+      "SwStr%": 15.2
+    },
+    "Cristopher Sánchez": {
+      "Team": "PHI",
+      "GS": 11,
+      "IP": 72.1,
+      "CSW%": 32.5,
+      "SwStr%": 15.1
+    },
+    "Shota Imanaga": {
+      "Team": "CHC",
+      "GS": 11,
+      "IP": 64.2,
+      "CSW%": 28.4,
+      "SwStr%": 14.7
+    },
+    "Jesús Luzardo": {
+      "Team": "PHI",
+      "GS": 11,
+      "IP": 61.2,
+      "CSW%": 31.4,
+      "SwStr%": 14.1
+    },
+    "Cam Schlittler": {
+      "Team": "NYY",
+      "GS": 12,
+      "IP": 72.0,
+      "CSW%": 28.0,
+      "SwStr%": 14.1
+    },
+    "Gavin Williams": {
+      "Team": "CLE",
+      "GS": 11,
+      "IP": 69.1,
+      "CSW%": 32.4,
+      "SwStr%": 14.0
+    },
+    "Chris Sale": {
+      "Team": "ATL",
+      "GS": 10,
+      "IP": 62.0,
+      "CSW%": 31.3,
+      "SwStr%": 13.8
+    },
+    "Max Meyer": {
+      "Team": "MIA",
+      "GS": 11,
+      "IP": 60.2,
+      "CSW%": 29.7,
+      "SwStr%": 13.8
+    },
+    "José Soriano": {
+      "Team": "LAA",
+      "GS": 11,
+      "IP": 66.1,
+      "CSW%": 29.8,
+      "SwStr%": 13.7
+    },
+    "Eury Pérez": {
+      "Team": "MIA",
+      "GS": 11,
+      "IP": 58.2,
+      "CSW%": 26.1,
+      "SwStr%": 12.9
+    },
+    "Davis Martin": {
+      "Team": "CHW",
+      "GS": 10,
+      "IP": 61.2,
+      "CSW%": 29.7,
+      "SwStr%": 12.8
+    },
+    "Reid Detmers": {
+      "Team": "LAA",
+      "GS": 11,
+      "IP": 63.0,
+      "CSW%": 28.4,
+      "SwStr%": 12.8
+    },
+    "Logan Gilbert": {
+      "Team": "SEA",
+      "GS": 11,
+      "IP": 62.1,
+      "CSW%": 28.9,
+      "SwStr%": 12.6
+    },
+    "Kevin Gausman": {
+      "Team": "TOR",
+      "GS": 11,
+      "IP": 64.0,
+      "CSW%": 27.7,
+      "SwStr%": 12.6
+    },
+    "Braxton Ashcraft": {
+      "Team": "PIT",
+      "GS": 11,
+      "IP": 68.2,
+      "CSW%": 30.3,
+      "SwStr%": 12.5
+    },
+    "Yoshinobu Yamamoto": {
+      "Team": "LAD",
+      "GS": 10,
+      "IP": 64.0,
+      "CSW%": 28.3,
+      "SwStr%": 12.3
+    },
+    "Jack Leiter": {
+      "Team": "TEX",
+      "GS": 11,
+      "IP": 60.2,
+      "CSW%": 28.4,
+      "SwStr%": 12.1
+    },
+    "Tanner Bibee": {
+      "Team": "CLE",
+      "GS": 12,
+      "IP": 63.0,
+      "CSW%": 28.6,
+      "SwStr%": 12.0
+    },
+    "Joe Ryan": {
+      "Team": "MIN",
+      "GS": 12,
+      "IP": 64.1,
+      "CSW%": 29.2,
+      "SwStr%": 11.9
+    },
+    "Joey Cantillo": {
+      "Team": "CLE",
+      "GS": 12,
+      "IP": 58.0,
+      "CSW%": 28.9,
+      "SwStr%": 11.8
+    },
+    "Parker Messick": {
+      "Team": "CLE",
+      "GS": 11,
+      "IP": 64.1,
+      "CSW%": 26.5,
+      "SwStr%": 11.7
+    },
+    "Freddy Peralta": {
+      "Team": "NYM",
+      "GS": 11,
+      "IP": 61.1,
+      "CSW%": 26.5,
+      "SwStr%": 11.5
+    },
+    "Paul Skenes": {
+      "Team": "PIT",
+      "GS": 11,
+      "IP": 60.0,
+      "CSW%": 25.6,
+      "SwStr%": 11.5
+    },
+    "Michael King": {
+      "Team": "SDP",
+      "GS": 11,
+      "IP": 62.0,
+      "CSW%": 28.2,
+      "SwStr%": 11.5
+    },
+    "Bryan Woo": {
+      "Team": "SEA",
+      "GS": 11,
+      "IP": 63.2,
+      "CSW%": 24.7,
+      "SwStr%": 11.3
+    },
+    "Mike Burrows": {
+      "Team": "HOU",
+      "GS": 10,
+      "IP": 56.1,
+      "CSW%": 26.9,
+      "SwStr%": 11.2
+    },
+    "MacKenzie Gore": {
+      "Team": "TEX",
+      "GS": 11,
+      "IP": 55.0,
+      "CSW%": 25.1,
+      "SwStr%": 11.2
+    },
+    "Cade Cavalli": {
+      "Team": "WSN",
+      "GS": 12,
+      "IP": 59.2,
+      "CSW%": 30.2,
+      "SwStr%": 11.0
+    },
+    "Emerson Hancock": {
+      "Team": "SEA",
+      "GS": 11,
+      "IP": 64.2,
+      "CSW%": 23.0,
+      "SwStr%": 10.9
+    },
+    "Robbie Ray": {
+      "Team": "SFG",
+      "GS": 11,
+      "IP": 58.2,
+      "CSW%": 24.3,
+      "SwStr%": 10.9
+    },
+    "Ryan Weathers": {
+      "Team": "NYY",
+      "GS": 10,
+      "IP": 57.1,
+      "CSW%": 31.0,
+      "SwStr%": 10.9
+    },
+    "Jameson Taillon": {
+      "Team": "CHC",
+      "GS": 10,
+      "IP": 55.1,
+      "CSW%": 28.3,
+      "SwStr%": 10.9
+    },
+    "Aaron Nola": {
+      "Team": "PHI",
+      "GS": 11,
+      "IP": 56.2,
+      "CSW%": 28.6,
+      "SwStr%": 10.8
+    },
+    "Kyle Bradish": {
+      "Team": "BAL",
+      "GS": 11,
+      "IP": 58.1,
+      "CSW%": 26.8,
+      "SwStr%": 10.6
+    },
+    "Drew Rasmussen": {
+      "Team": "TBR",
+      "GS": 10,
+      "IP": 55.0,
+      "CSW%": 27.4,
+      "SwStr%": 10.5
+    },
+    "Matthew Liberatore": {
+      "Team": "STL",
+      "GS": 11,
+      "IP": 56.2,
+      "CSW%": 26.7,
+      "SwStr%": 10.4
+    },
+    "Jack Kochanowicz": {
+      "Team": "LAA",
+      "GS": 11,
+      "IP": 61.1,
+      "CSW%": 26.0,
+      "SwStr%": 10.4
+    },
+    "Landen Roupp": {
+      "Team": "SFG",
+      "GS": 11,
+      "IP": 60.0,
+      "CSW%": 29.1,
+      "SwStr%": 10.4
+    },
+    "Michael Soroka": {
+      "Team": "ARI",
+      "GS": 10,
+      "IP": 55.0,
+      "CSW%": 26.7,
+      "SwStr%": 10.3
+    },
+    "George Kirby": {
+      "Team": "SEA",
+      "GS": 11,
+      "IP": 68.2,
+      "CSW%": 25.2,
+      "SwStr%": 10.2
+    },
+    "Randy Vásquez": {
+      "Team": "SDP",
+      "GS": 11,
+      "IP": 60.1,
+      "CSW%": 25.2,
+      "SwStr%": 10.2
+    },
+    "Jeffrey Springs": {
+      "Team": "ATH",
+      "GS": 11,
+      "IP": 61.1,
+      "CSW%": 28.4,
+      "SwStr%": 10.1
+    },
+    "Sandy Alcantara": {
+      "Team": "MIA",
+      "GS": 12,
+      "IP": 75.1,
+      "CSW%": 26.7,
+      "SwStr%": 10.0
+    },
+    "Max Fried": {
+      "Team": "NYY",
+      "GS": 10,
+      "IP": 61.2,
+      "CSW%": 27.5,
+      "SwStr%": 10.0
+    },
+    "Will Warren": {
+      "Team": "NYY",
+      "GS": 11,
+      "IP": 58.1,
+      "CSW%": 29.1,
+      "SwStr%": 10.0
+    },
+    "Bryce Elder": {
+      "Team": "ATL",
+      "GS": 11,
+      "IP": 68.2,
+      "CSW%": 26.0,
+      "SwStr%": 10.0
+    },
+    "Nolan McLean": {
+      "Team": "NYM",
+      "GS": 11,
+      "IP": 61.1,
+      "CSW%": 29.7,
+      "SwStr%": 9.7
+    },
+    "Michael Wacha": {
+      "Team": "KCR",
+      "GS": 11,
+      "IP": 70.1,
+      "CSW%": 26.7,
+      "SwStr%": 9.7
+    },
+    "Foster Griffin": {
+      "Team": "WSN",
+      "GS": 11,
+      "IP": 62.0,
+      "CSW%": 28.3,
+      "SwStr%": 9.6
+    },
+    "Andre Pallante": {
+      "Team": "STL",
+      "GS": 10,
+      "IP": 55.0,
+      "CSW%": 27.8,
+      "SwStr%": 9.6
+    },
+    "Luis Severino": {
+      "Team": "ATH",
+      "GS": 11,
+      "IP": 61.2,
+      "CSW%": 25.2,
+      "SwStr%": 9.4
+    },
+    "Ryne Nelson": {
+      "Team": "ARI",
+      "GS": 11,
+      "IP": 60.0,
+      "CSW%": 23.0,
+      "SwStr%": 9.3
+    },
+    "Bailey Ober": {
+      "Team": "MIN",
+      "GS": 11,
+      "IP": 62.0,
+      "CSW%": 26.0,
+      "SwStr%": 9.3
+    },
+    "Connelly Early": {
+      "Team": "BOS",
+      "GS": 10,
+      "IP": 54.0,
+      "CSW%": 27.8,
+      "SwStr%": 9.1
+    },
+    "Framber Valdez": {
+      "Team": "DET",
+      "GS": 11,
+      "IP": 61.0,
+      "CSW%": 27.8,
+      "SwStr%": 9.1
+    },
+    "Ranger Suarez": {
+      "Team": "BOS",
+      "GS": 10,
+      "IP": 53.2,
+      "CSW%": 25.8,
+      "SwStr%": 8.9
+    },
+    "Dustin May": {
+      "Team": "STL",
+      "GS": 10,
+      "IP": 54.0,
+      "CSW%": 25.5,
+      "SwStr%": 8.7
+    },
+    "Mitch Keller": {
+      "Team": "PIT",
+      "GS": 11,
+      "IP": 64.1,
+      "CSW%": 25.0,
+      "SwStr%": 8.7
+    },
+    "Zac Gallen": {
+      "Team": "ARI",
+      "GS": 11,
+      "IP": 54.1,
+      "CSW%": 25.7,
+      "SwStr%": 8.7
+    },
+    "Andrew Abbott": {
+      "Team": "CIN",
+      "GS": 11,
+      "IP": 56.2,
+      "CSW%": 25.4,
+      "SwStr%": 8.6
+    },
+    "Shane Baz": {
+      "Team": "BAL",
+      "GS": 11,
+      "IP": 64.1,
+      "CSW%": 24.9,
+      "SwStr%": 8.4
+    },
+    "Michael McGreevy": {
+      "Team": "STL",
+      "GS": 11,
+      "IP": 60.1,
+      "CSW%": 24.7,
+      "SwStr%": 8.3
+    },
+    "Slade Cecconi": {
+      "Team": "CLE",
+      "GS": 11,
+      "IP": 57.1,
+      "CSW%": 25.4,
+      "SwStr%": 8.2
+    },
+    "Nick Martinez": {
+      "Team": "TBR",
+      "GS": 10,
+      "IP": 59.2,
+      "CSW%": 26.3,
+      "SwStr%": 8.1
+    },
+    "Tyler Mahle": {
+      "Team": "SFG",
+      "GS": 11,
+      "IP": 56.2,
+      "CSW%": 27.1,
+      "SwStr%": 8.0
+    },
+    "Aaron Civale": {
+      "Team": "ATH",
+      "GS": 11,
+      "IP": 55.2,
+      "CSW%": 27.6,
+      "SwStr%": 7.7
+    },
+    "Eduardo Rodriguez": {
+      "Team": "ARI",
+      "GS": 11,
+      "IP": 66.1,
+      "CSW%": 24.7,
+      "SwStr%": 7.6
+    },
+    "Seth Lugo": {
+      "Team": "KCR",
+      "GS": 11,
+      "IP": 65.0,
+      "CSW%": 24.9,
+      "SwStr%": 7.3
+    },
+    "Keider Montero": {
+      "Team": "DET",
+      "GS": 10,
+      "IP": 55.0,
+      "CSW%": 25.3,
+      "SwStr%": 7.1
+    },
+    "Janson Junk": {
+      "Team": "MIA",
+      "GS": 11,
+      "IP": 60.0,
+      "CSW%": 23.7,
+      "SwStr%": 7.1
+    }
+  }
+}
