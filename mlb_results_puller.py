@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import argparse
 import json
+from pathlib import Path
 from datetime import datetime, timedelta
 
 import httpx
@@ -116,6 +117,7 @@ if __name__ == "__main__":
 
     results = pull_results(args.date)
     out_path = args.out or f"results_{args.date}.json"
+    Path(out_path).parent.mkdir(parents=True, exist_ok=True)
     with open(out_path, "w") as f:
         json.dump(results, f, indent=2)
     print(f"Wrote {len(results)} starter lines -> {out_path}")
