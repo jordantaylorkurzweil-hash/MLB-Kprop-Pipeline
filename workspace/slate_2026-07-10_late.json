@@ -18,10 +18,10 @@
       "first_pitch_et": "2026-07-10T19:05:00+00:00",
       "park": "Oriole Park at Camden Yards",
       "park_team": "BAL",
-      "weather": "",
-      "ppd_pct": 0,
+      "weather": "86F, Partly Cloudy, Wind 5 mph, Out To RF",
+      "ppd_pct": 3,
       "indoor": false,
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "away_team": "Chicago Cubs",
@@ -41,10 +41,10 @@
       "first_pitch_et": "2026-07-10T19:10:00+00:00",
       "park": "Great American Ball Park",
       "park_team": "CIN",
-      "weather": "",
-      "ppd_pct": 9,
+      "weather": "84F, Partly Cloudy, Wind 6 mph, Out To LF",
+      "ppd_pct": 8,
       "indoor": false,
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "away_team": "Seattle Mariners",
@@ -64,10 +64,10 @@
       "first_pitch_et": "2026-07-10T19:10:00+00:00",
       "park": "Tropicana Field",
       "park_team": "TBR",
-      "weather": "",
+      "weather": "72F, Dome, Wind 0 mph, None",
       "ppd_pct": 0,
       "indoor": true,
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "away_team": "Cleveland Guardians",
@@ -87,10 +87,10 @@
       "first_pitch_et": "2026-07-10T19:10:00+00:00",
       "park": "loanDepot park",
       "park_team": "MIA",
-      "weather": "",
+      "weather": "72F, Roof Closed, Wind 0 mph, None",
       "ppd_pct": 0,
       "indoor": true,
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "away_team": "Boston Red Sox",
@@ -110,10 +110,10 @@
       "first_pitch_et": "2026-07-10T19:15:00+00:00",
       "park": "Citi Field",
       "park_team": "NYM",
-      "weather": "",
-      "ppd_pct": 5,
+      "weather": "83F, Clear, Wind 10 mph, Out To RF",
+      "ppd_pct": 4,
       "indoor": false,
-      "status": "Scheduled"
+      "status": "Delayed Start"
     },
     {
       "away_team": "Athletics",
@@ -133,10 +133,10 @@
       "first_pitch_et": "2026-07-10T19:40:00+00:00",
       "park": "Rate Field",
       "park_team": "CWS",
-      "weather": "",
+      "weather": "75F, Partly Cloudy, Wind 11 mph, Out To RF",
       "ppd_pct": 0,
       "indoor": false,
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "away_team": "Houston Astros",
@@ -156,10 +156,10 @@
       "first_pitch_et": "2026-07-10T20:05:00+00:00",
       "park": "Globe Life Field",
       "park_team": "TEX",
-      "weather": "",
+      "weather": "72F, Roof Closed, Wind 0 mph, None",
       "ppd_pct": 0,
       "indoor": true,
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "away_team": "Los Angeles Angels",
@@ -179,10 +179,10 @@
       "first_pitch_et": "2026-07-10T20:10:00+00:00",
       "park": "Target Field",
       "park_team": "MIN",
-      "weather": "",
-      "ppd_pct": 1,
+      "weather": "86F, Partly Cloudy, Wind 5 mph, R To L",
+      "ppd_pct": 0,
       "indoor": false,
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "away_team": "Atlanta Braves",
@@ -202,10 +202,10 @@
       "first_pitch_et": "2026-07-10T20:15:00+00:00",
       "park": "Busch Stadium",
       "park_team": "STL",
-      "weather": "",
-      "ppd_pct": 27,
+      "weather": "88F, Overcast, Wind 3 mph, Out To CF",
+      "ppd_pct": 51,
       "indoor": false,
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "away_team": "Toronto Blue Jays",
@@ -225,10 +225,10 @@
       "first_pitch_et": "2026-07-10T21:40:00+00:00",
       "park": "Petco Park",
       "park_team": "SDP",
-      "weather": "",
+      "weather": "70F, Partly Cloudy, Wind 6 mph, Out To RF",
       "ppd_pct": 0,
       "indoor": false,
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "away_team": "Arizona Diamondbacks",
@@ -238,7 +238,7 @@
         "throws": "R"
       },
       "home_sp": {
-        "name": "Shohei Ohtani",
+        "name": "Kyle Hurt",
         "throws": "R"
       },
       "away_lineup": [],
@@ -248,10 +248,10 @@
       "first_pitch_et": "2026-07-10T22:10:00+00:00",
       "park": "UNIQLO Field at Dodger Stadium",
       "park_team": "LAD",
-      "weather": "",
+      "weather": "80F, Partly Cloudy, Wind 8 mph, Out To CF",
       "ppd_pct": 0,
       "indoor": false,
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "away_team": "Colorado Rockies",
@@ -271,10 +271,10 @@
       "first_pitch_et": "2026-07-10T22:15:00+00:00",
       "park": "Oracle Park",
       "park_team": "SFG",
-      "weather": "",
-      "ppd_pct": 0,
+      "weather": "60F, Clear, Wind 13 mph, Out To LF",
+      "ppd_pct": 1,
       "indoor": false,
-      "status": "Scheduled"
+      "status": "Pre-Game"
     }
   ]
 }
