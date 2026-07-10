@@ -4,6 +4,13 @@ name: MLB K-Prop Pipeline
 # compute. Same 3 trigger times, but now running plain Python instead of
 # paying an LLM agent to re-derive the same steps every day.
 #
+# IMPORTANT — each scheduled trigger (11am / 5:30pm / 6am) spins up a
+# completely separate, fresh runner — nothing carries over between them
+# automatically. So the "Commit outputs" step at the bottom pushes
+# workspace/ back into the repo after every run, which is how the 5:30pm
+# job can see the 11am job's results, and how the next morning's 6am
+# backtest can see yesterday's AM/late results. Don't remove that step.
+#
 # IMPORTANT — the one manual step this doesn't remove:
 #   FanGraphs' full leaderboard is paywalled, AND FanGraphs blocks requests
 #   from cloud/datacenter IPs (like GitHub Actions runners) with a 403 even
@@ -21,6 +28,9 @@ on:
     - cron: "30 21 * * *"  # 5:30 PM ET (EDT/UTC-4) — late-slate refresh
     - cron: "0 10 * * *"   # 6:00 AM ET (EDT/UTC-4) — prior day's backtest
   workflow_dispatch:        # manual "Run workflow" button for testing
+
+permissions:
+  contents: write   # needed so the pipeline can commit its own outputs back
 
 jobs:
   run-pipeline:
@@ -75,7 +85,7 @@ jobs:
           python mlb_results_puller.py "$YDATE" --out "workspace/results_${YDATE}.json"
           python build_backtest.py "$YDATE"
 
-      - name: Upload outputs
+      - name: Upload outputs (for easy download)
         uses: actions/upload-artifact@v4
         with:
           name: kprop-outputs-${{ steps.dt.outputs.today }}
@@ -84,3 +94,17 @@ jobs:
             workspace/*.csv
             workspace/*.json
           retention-days: 30
+
+      - name: Commit outputs back to repo
+        if: always()
+        run: |
+          git config user.name "kprop-pipeline-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add workspace/
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit."
+          else
+            git commit -m "Pipeline run: ${{ steps.dt.outputs.today }} (${{ github.event.schedule || 'manual' }})"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
