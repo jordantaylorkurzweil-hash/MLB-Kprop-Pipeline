@@ -19,7 +19,7 @@
       "park": "Comerica Park",
       "park_team": "DET",
       "weather": "",
-      "ppd_pct": 0,
+      "ppd_pct": 6,
       "indoor": false,
       "status": "Scheduled"
     },
@@ -42,7 +42,7 @@
       "park": "PNC Park",
       "park_team": "PIT",
       "weather": "",
-      "ppd_pct": 21,
+      "ppd_pct": 24,
       "indoor": false,
       "status": "Scheduled"
     },
@@ -65,7 +65,7 @@
       "park": "Nationals Park",
       "park_team": "WSN",
       "weather": "",
-      "ppd_pct": 11,
+      "ppd_pct": 5,
       "indoor": false,
       "status": "Scheduled"
     },
@@ -88,7 +88,7 @@
       "park": "Oriole Park at Camden Yards",
       "park_team": "BAL",
       "weather": "",
-      "ppd_pct": 8,
+      "ppd_pct": 3,
       "indoor": false,
       "status": "Scheduled"
     },
@@ -111,7 +111,7 @@
       "park": "Great American Ball Park",
       "park_team": "CIN",
       "weather": "",
-      "ppd_pct": 9,
+      "ppd_pct": 19,
       "indoor": false,
       "status": "Scheduled"
     },
@@ -180,7 +180,7 @@
       "park": "Citi Field",
       "park_team": "NYM",
       "weather": "",
-      "ppd_pct": 5,
+      "ppd_pct": 3,
       "indoor": false,
       "status": "Scheduled"
     },
@@ -272,7 +272,7 @@
       "park": "Busch Stadium",
       "park_team": "STL",
       "weather": "",
-      "ppd_pct": 27,
+      "ppd_pct": 23,
       "indoor": false,
       "status": "Scheduled"
     },
