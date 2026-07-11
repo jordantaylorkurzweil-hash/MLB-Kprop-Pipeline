@@ -1,0 +1,142 @@
+{
+  "games": [
+    {
+      "away_team": "Kansas City Royals",
+      "home_team": "Baltimore Orioles",
+      "away_sp": {
+        "name": "Noah Cameron",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Kyle Bradish",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-11T19:05:00+00:00",
+      "park": "Oriole Park at Camden Yards",
+      "park_team": "BAL",
+      "weather": "85F, Cloudy, Wind 4 mph, Out To LF",
+      "ppd_pct": 8,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Houston Astros",
+      "home_team": "Texas Rangers",
+      "away_sp": {
+        "name": "Peter Lambert",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Kumar Rocker",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-11T19:05:00+00:00",
+      "park": "Globe Life Field",
+      "park_team": "TEX",
+      "weather": "74F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Chicago Cubs",
+      "home_team": "Cincinnati Reds",
+      "away_sp": {
+        "name": "Javier Assad",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Nick Lodolo",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-11T19:10:00+00:00",
+      "park": "Great American Ball Park",
+      "park_team": "CIN",
+      "weather": "76F, Cloudy, Wind 5 mph, L To R",
+      "ppd_pct": 12,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Atlanta Braves",
+      "home_team": "St. Louis Cardinals",
+      "away_sp": {
+        "name": "Reynaldo L\u00f3pez",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Matthew Liberatore",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-11T19:15:00+00:00",
+      "park": "Busch Stadium",
+      "park_team": "STL",
+      "weather": "81F, Partly Cloudy, Wind 11 mph, In From LF",
+      "ppd_pct": 2,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Toronto Blue Jays",
+      "home_team": "San Diego Padres",
+      "away_sp": {
+        "name": "Trey Yesavage",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Walker Buehler",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-11T20:40:00+00:00",
+      "park": "Petco Park",
+      "park_team": "SDP",
+      "weather": "71F, Cloudy, Wind 6 mph, R To L",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Arizona Diamondbacks",
+      "home_team": "Los Angeles Dodgers",
+      "away_sp": {
+        "name": "Brandon Pfaadt",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Yoshinobu Yamamoto",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-11T21:10:00+00:00",
+      "park": "UNIQLO Field at Dodger Stadium",
+      "park_team": "LAD",
+      "weather": "79F, Cloudy, Wind 4 mph, In From CF",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
