@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "American League All-Stars",
+      "home_team": "National League All-Stars",
+      "away_sp": {
+        "name": "Dylan Cease",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Cristopher S\u00e1nchez",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-14T20:00:00+00:00",
+      "park": "Citizens Bank Park",
+      "park_team": "NAT",
+      "weather": "89F, Clear, Wind 11 mph, Varies",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
