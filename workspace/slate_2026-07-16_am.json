@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "New York Mets",
+      "home_team": "Philadelphia Phillies",
+      "away_sp": {
+        "name": "Christian Scott",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Aaron Nola",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-16T19:10:00+00:00",
+      "park": "Citizens Bank Park",
+      "park_team": "PHI",
+      "weather": "",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Scheduled"
+    }
+  ]
+}
