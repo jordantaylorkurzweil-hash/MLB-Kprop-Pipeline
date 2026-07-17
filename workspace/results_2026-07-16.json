@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Christian Scott",
+    "team": "NYM",
+    "matchup": "NYM @ PHI",
+    "actual_ks": 7,
+    "ip": "5.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Aaron Nola",
+    "team": "PHI",
+    "matchup": "NYM @ PHI",
+    "actual_ks": 6,
+    "ip": "6.0",
+    "final_status": "Final"
+  }
+]
