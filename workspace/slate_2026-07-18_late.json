@@ -1,0 +1,119 @@
+{
+  "games": [
+    {
+      "away_team": "Pittsburgh Pirates",
+      "home_team": "Cleveland Guardians",
+      "away_sp": {
+        "name": "Mason Montgomery",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Logan Allen",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-18T19:10:00+00:00",
+      "park": "Progressive Field",
+      "park_team": "CLE",
+      "weather": "84F, Overcast, Wind 10 mph, L To R",
+      "ppd_pct": 3,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "San Francisco Giants",
+      "home_team": "Seattle Mariners",
+      "away_sp": {
+        "name": "Logan Webb",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Bryan Woo",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-18T20:08:00+00:00",
+      "park": "T-Mobile Park",
+      "park_team": "SEA",
+      "weather": "76F, Clear, Wind 8 mph, In From LF",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Washington Nationals",
+      "home_team": "Athletics",
+      "away_sp": {
+        "name": "Zack Littell",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "J.T. Ginn",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-18T22:05:00+00:00",
+      "park": "Sutter Health Park",
+      "park_team": "ATH",
+      "weather": "83F, Partly Cloudy, Wind 8 mph, Out To LF",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Detroit Tigers",
+      "home_team": "Los Angeles Angels",
+      "away_sp": {
+        "name": "Tarik Skubal",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Grayson Rodriguez",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-18T22:07:00+00:00",
+      "park": "Angel Stadium",
+      "park_team": "LAA",
+      "weather": "80F, Partly Cloudy, Wind 8 mph, Out To RF",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Los Angeles Dodgers",
+      "home_team": "New York Yankees",
+      "away_sp": {
+        "name": "Emmet Sheehan",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Ryan Weathers",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-18T20:08:00+00:00",
+      "park": "Yankee Stadium",
+      "park_team": "NYY",
+      "weather": "",
+      "ppd_pct": 15,
+      "indoor": false,
+      "status": "Postponed"
+    }
+  ]
+}
