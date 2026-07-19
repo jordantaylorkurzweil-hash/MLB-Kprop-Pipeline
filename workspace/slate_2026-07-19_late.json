@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "Los Angeles Dodgers",
+      "home_team": "New York Yankees",
+      "away_sp": {
+        "name": "Will Klein",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Ryan Yarbrough",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-19T19:20:00+00:00",
+      "park": "Yankee Stadium",
+      "park_team": "NYY",
+      "weather": "81F, Partly Cloudy, Wind 6 mph, Varies",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
