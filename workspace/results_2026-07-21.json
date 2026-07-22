@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Kendry Rojas",
+    "team": "MIN",
+    "matchup": "MIN @ CLE",
+    "actual_ks": 2,
+    "ip": "2.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Parker Messick",
+    "team": "CLE",
+    "matchup": "MIN @ CLE",
+    "actual_ks": 6,
+    "ip": "5.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Justin Wrobleski",
+    "team": "LAD",
+    "matchup": "LAD @ PHI",
+    "actual_ks": 7,
+    "ip": "6.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Zack Wheeler",
+    "team": "PHI",
+    "matchup": "LAD @ PHI",
+    "actual_ks": 9,
+    "ip": "7.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Drew Rasmussen",
+    "team": "TBR",
+    "matchup": "TBR @ TOR",
+    "actual_ks": 5,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Kevin Gausman",
+    "team": "TOR",
+    "matchup": "TBR @ TOR",
+    "actual_ks": 1,
+    "ip": "3.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Walker Buehler",
+    "team": "SDP",
+    "matchup": "SDP @ ATL",
+    "actual_ks": 3,
+    "ip": "5.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Reynaldo L\u00f3pez",
+    "team": "ATL",
+    "matchup": "SDP @ ATL",
+    "actual_ks": 6,
+    "ip": "4.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Tyler Mahle",
+    "team": "SFG",
+    "matchup": "SFG @ KCR",
+    "actual_ks": 4,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Luinder Avila",
+    "team": "KCR",
+    "matchup": "SFG @ KCR",
+    "actual_ks": 7,
+    "ip": "6.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Zac Thornton",
+    "team": "NYM",
+    "matchup": "NYM @ MIL",
+    "actual_ks": 2,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Brandon Sproat",
+    "team": "MIL",
+    "matchup": "NYM @ MIL",
+    "actual_ks": 4,
+    "ip": "4.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Framber Valdez",
+    "team": "DET",
+    "matchup": "DET @ CHC",
+    "actual_ks": 1,
+    "ip": "0.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "David Peterson",
+    "team": "CHC",
+    "matchup": "DET @ CHC",
+    "actual_ks": 4,
+    "ip": "6.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Noah Schultz",
+    "team": "CWS",
+    "matchup": "CWS @ TEX",
+    "actual_ks": 2,
+    "ip": "3.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Kumar Rocker",
+    "team": "TEX",
+    "matchup": "CWS @ TEX",
+    "actual_ks": 6,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Tyler Phillips",
+    "team": "MIA",
+    "matchup": "MIA @ HOU",
+    "actual_ks": 2,
+    "ip": "4.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Tatsuya Imai",
+    "team": "HOU",
+    "matchup": "MIA @ HOU",
+    "actual_ks": 8,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Carson Palmquist",
+    "team": "WSN",
+    "matchup": "WSN @ COL",
+    "actual_ks": 2,
+    "ip": "1.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Michael Lorenzen",
+    "team": "COL",
+    "matchup": "WSN @ COL",
+    "actual_ks": 5,
+    "ip": "3.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Matthew Liberatore",
+    "team": "STL",
+    "matchup": "STL @ LAA",
+    "actual_ks": 7,
+    "ip": "5.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Walbert Ure\u00f1a",
+    "team": "LAA",
+    "matchup": "STL @ LAA",
+    "actual_ks": 5,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Jack Perkins",
+    "team": "ATH",
+    "matchup": "ATH @ ARI",
+    "actual_ks": 4,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Kohl Drake",
+    "team": "ARI",
+    "matchup": "ATH @ ARI",
+    "actual_ks": 5,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Chase Burns",
+    "team": "CIN",
+    "matchup": "CIN @ SEA",
+    "actual_ks": 6,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Luis Castillo",
+    "team": "SEA",
+    "matchup": "CIN @ SEA",
+    "actual_ks": 3,
+    "ip": "7.0",
+    "final_status": "Final"
+  }
+]
