@@ -1,0 +1,119 @@
+{
+  "games": [
+    {
+      "away_team": "San Diego Padres",
+      "home_team": "Atlanta Braves",
+      "away_sp": {
+        "name": "Kyle Hart",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Chris Sale",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-23T12:15:00+00:00",
+      "park": "Truist Park",
+      "park_team": "ATL",
+      "weather": "82F, Cloudy, Wind 6 mph, Out To LF",
+      "ppd_pct": 5,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Minnesota Twins",
+      "home_team": "Cleveland Guardians",
+      "away_sp": {
+        "name": "Taj Bradley",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Gavin Williams",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-23T13:10:00+00:00",
+      "park": "Progressive Field",
+      "park_team": "CLE",
+      "weather": "75F, Sunny, Wind 6 mph, In From CF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Toronto Blue Jays",
+      "away_sp": {
+        "name": "Casey Legumina",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Shane Bieber",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-23T15:07:00+00:00",
+      "park": "Rogers Centre",
+      "park_team": "TOR",
+      "weather": "72F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Arizona Diamondbacks",
+      "home_team": "St. Louis Cardinals",
+      "away_sp": {
+        "name": "Brandon Pfaadt",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Michael McGreevy",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-23T17:15:00+00:00",
+      "park": "Busch Stadium",
+      "park_team": "STL",
+      "weather": "",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Scheduled"
+    },
+    {
+      "away_team": "Kansas City Royals",
+      "home_team": "Detroit Tigers",
+      "away_sp": {
+        "name": "Randy Dobnak",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Troy Melton",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-23T18:40:00+00:00",
+      "park": "Comerica Park",
+      "park_team": "DET",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Scheduled"
+    }
+  ]
+}

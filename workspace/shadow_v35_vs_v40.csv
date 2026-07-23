@@ -338,3 +338,7 @@ date,slate,pitcher,team,matchup,K/9,IP,GS,ip_per_start,k9_bucket,v35_proj,v40_pr
 2026-07-22,LATE,Colin Rea,CHC,DET @ CHC,6.65,94.2,15,6.28,<7,4.84,5.21,0.37,4.5,0.34,0.71,No call,,
 2026-07-22,LATE,Sandy Alcantara,MIA,MIA @ HOU,6.7,123.2,19,6.48,<7,4.95,5.32,0.37,4.5,0.45,0.82,No call,,
 2026-07-22,LATE,Peter Lambert,HOU,MIA @ HOU,8.32,80,14,5.71,7-9,5.3,5.49,0.19,5.5,-0.2,-0.01,No call,,
+2026-07-23,AM,Chris Sale,ATL,SDP @ ATL,10.61,95,16,5.94,9-11,5.81,5.2,-0.61,9.5,-3.69,-4.3,No call,,
+2026-07-23,AM,Taj Bradley,MIN,MIN @ CLE,10.54,95.2,17,5.6,9-11,5.37,5.88,0.51,5.5,-0.13,0.38,No call,,
+2026-07-23,AM,Gavin Williams,CLE,MIN @ CLE,10.64,113.1,19,5.95,9-11,5.73,5.13,-0.6,6.5,-0.77,-1.37,No call,,
+2026-07-23,AM,Michael McGreevy,STL,ARI @ STL,5.84,101.2,18,5.62,<7,4.04,4.32,0.28,3.5,0.54,0.82,No call,,
