@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Kyle Hart",
+    "team": "SDP",
+    "matchup": "SDP @ ATL",
+    "actual_ks": 1,
+    "ip": "1.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Chris Sale",
+    "team": "ATL",
+    "matchup": "SDP @ ATL",
+    "actual_ks": 11,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Taj Bradley",
+    "team": "MIN",
+    "matchup": "MIN @ CLE",
+    "actual_ks": 5,
+    "ip": "7.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Gavin Williams",
+    "team": "CLE",
+    "matchup": "MIN @ CLE",
+    "actual_ks": 11,
+    "ip": "7.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Casey Legumina",
+    "team": "TBR",
+    "matchup": "TBR @ TOR",
+    "actual_ks": 2,
+    "ip": "2.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Shane Bieber",
+    "team": "TOR",
+    "matchup": "TBR @ TOR",
+    "actual_ks": 3,
+    "ip": "7.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Brandon Pfaadt",
+    "team": "ARI",
+    "matchup": "ARI @ STL",
+    "actual_ks": 1,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Michael McGreevy",
+    "team": "STL",
+    "matchup": "ARI @ STL",
+    "actual_ks": 3,
+    "ip": "6.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Randy Dobnak",
+    "team": "KCR",
+    "matchup": "KCR @ DET",
+    "actual_ks": 3,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Troy Melton",
+    "team": "DET",
+    "matchup": "KCR @ DET",
+    "actual_ks": 5,
+    "ip": "5.0",
+    "final_status": "Final"
+  }
+]
