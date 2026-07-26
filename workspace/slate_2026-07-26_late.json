@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "New York Yankees",
+      "home_team": "Philadelphia Phillies",
+      "away_sp": {
+        "name": "Will Warren",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Cristopher S\u00e1nchez",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-26T19:20:00+00:00",
+      "park": "Citizens Bank Park",
+      "park_team": "PHI",
+      "weather": "86F, Partly Cloudy, Wind 7 mph, Out To LF",
+      "ppd_pct": 2,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
