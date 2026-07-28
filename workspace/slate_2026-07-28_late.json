@@ -1,0 +1,234 @@
+{
+  "games": [
+    {
+      "away_team": "Cleveland Guardians",
+      "home_team": "Cincinnati Reds",
+      "away_sp": {
+        "name": "Gavin Williams",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Caleb Ferguson",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-28T19:10:00+00:00",
+      "park": "Great American Ball Park",
+      "park_team": "CIN",
+      "weather": "84F, Partly Cloudy, Wind 9 mph, Out To RF",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Kansas City Royals",
+      "home_team": "Minnesota Twins",
+      "away_sp": {
+        "name": "Seth Lugo",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Taj Bradley",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-28T19:40:00+00:00",
+      "park": "Target Field",
+      "park_team": "MIN",
+      "weather": "90F, Partly Cloudy, Wind 5 mph, Out To CF",
+      "ppd_pct": 2,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "New York Yankees",
+      "home_team": "Chicago White Sox",
+      "away_sp": {
+        "name": "Gerrit Cole",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Anthony Kay",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-28T19:40:00+00:00",
+      "park": "Rate Field",
+      "park_team": "CWS",
+      "weather": "72F, Partly Cloudy, Wind 17 mph, Out To RF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Chicago Cubs",
+      "home_team": "St. Louis Cardinals",
+      "away_sp": {
+        "name": "Colin Rea",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Michael McGreevy",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-28T19:45:00+00:00",
+      "park": "Busch Stadium",
+      "park_team": "STL",
+      "weather": "91F, Partly Cloudy, Wind 7 mph, In From LF",
+      "ppd_pct": 2,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Houston Astros",
+      "home_team": "Los Angeles Angels",
+      "away_sp": {
+        "name": "Peter Lambert",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Reid Detmers",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-28T21:38:00+00:00",
+      "park": "Angel Stadium",
+      "park_team": "LAA",
+      "weather": "83F, Cloudy, Wind 7 mph, Out To CF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Boston Red Sox",
+      "home_team": "Athletics",
+      "away_sp": {
+        "name": "Jake Bennett",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Gage Jump",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-28T21:40:00+00:00",
+      "park": "Sutter Health Park",
+      "park_team": "ATH",
+      "weather": "94F, Clear, Wind 7 mph, Out To CF",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Colorado Rockies",
+      "home_team": "San Diego Padres",
+      "away_sp": {
+        "name": "Michael Lorenzen",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Michael King",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-28T21:40:00+00:00",
+      "park": "Petco Park",
+      "park_team": "SDP",
+      "weather": "74F, Partly Cloudy, Wind 7 mph, Out To RF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Milwaukee Brewers",
+      "home_team": "San Francisco Giants",
+      "away_sp": {
+        "name": "Logan Henderson",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Landen Roupp",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-28T21:45:00+00:00",
+      "park": "Oracle Park",
+      "park_team": "SFG",
+      "weather": "66F, Clear, Wind 11 mph, Out To CF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Seattle Mariners",
+      "home_team": "Los Angeles Dodgers",
+      "away_sp": {
+        "name": "Luis Castillo",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Justin Wrobleski",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-28T22:10:00+00:00",
+      "park": "UNIQLO Field at Dodger Stadium",
+      "park_team": "LAD",
+      "weather": "80F, Clear, Wind 9 mph, Out To CF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Atlanta Braves",
+      "home_team": "New York Mets",
+      "away_sp": {
+        "name": "Chris Sale",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Christian Scott",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-28T19:10:00+00:00",
+      "park": "Citi Field",
+      "park_team": "NYM",
+      "weather": "",
+      "ppd_pct": 64,
+      "indoor": false,
+      "status": "Postponed"
+    }
+  ]
+}
