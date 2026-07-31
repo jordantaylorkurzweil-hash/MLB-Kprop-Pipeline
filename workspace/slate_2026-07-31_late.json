@@ -1,0 +1,303 @@
+{
+  "games": [
+    {
+      "away_team": "Philadelphia Phillies",
+      "home_team": "Baltimore Orioles",
+      "away_sp": {
+        "name": "Andrew Painter",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Brandon Young",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-31T19:05:00+00:00",
+      "park": "Oriole Park at Camden Yards",
+      "park_team": "BAL",
+      "weather": "84F, Partly Cloudy, Wind 7 mph, R To L",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "St. Louis Cardinals",
+      "home_team": "Toronto Blue Jays",
+      "away_sp": {
+        "name": "Kyle Leahy",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Dylan Cease",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-31T19:07:00+00:00",
+      "park": "Rogers Centre",
+      "park_team": "TOR",
+      "weather": "82F, Clear, Wind 6 mph, Out To CF",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Arizona Diamondbacks",
+      "home_team": "Cleveland Guardians",
+      "away_sp": {
+        "name": "Mitch Bratt",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Tanner Bibee",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-31T19:10:00+00:00",
+      "park": "Progressive Field",
+      "park_team": "CLE",
+      "weather": "85F, Partly Cloudy, Wind 2 mph, In From CF",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Chicago White Sox",
+      "home_team": "Tampa Bay Rays",
+      "away_sp": {
+        "name": "Erick Fedde",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Nick Martinez",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-31T19:10:00+00:00",
+      "park": "Tropicana Field",
+      "park_team": "TBR",
+      "weather": "72F, Dome, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Miami Marlins",
+      "home_team": "New York Mets",
+      "away_sp": {
+        "name": "Janson Junk",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Kodai Senga",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-31T19:10:00+00:00",
+      "park": "Citi Field",
+      "park_team": "NYM",
+      "weather": "79F, Partly Cloudy, Wind 7 mph, Out To LF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Washington Nationals",
+      "home_team": "Atlanta Braves",
+      "away_sp": {
+        "name": "Foster Griffin",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Bryce Elder",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-31T19:15:00+00:00",
+      "park": "Truist Park",
+      "park_team": "ATL",
+      "weather": "89F, Clear, Wind 3 mph, R To L",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Texas Rangers",
+      "home_team": "Houston Astros",
+      "away_sp": {
+        "name": "Nathan Eovaldi",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Hunter Brown",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-31T20:15:00+00:00",
+      "park": "Daikin Park",
+      "park_team": "HOU",
+      "weather": "72F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Kansas City Royals",
+      "home_team": "Colorado Rockies",
+      "away_sp": {
+        "name": "Michael Wacha",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Tomoyuki Sugano",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-31T20:40:00+00:00",
+      "park": "Coors Field",
+      "park_team": "COL",
+      "weather": "85F, Partly Cloudy, Wind 6 mph, In From RF",
+      "ppd_pct": 2,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Milwaukee Brewers",
+      "home_team": "Los Angeles Angels",
+      "away_sp": {
+        "name": "Shane Drohan",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Ryan Johnson",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-31T21:38:00+00:00",
+      "park": "Angel Stadium",
+      "park_team": "LAA",
+      "weather": "87F, Clear, Wind 8 mph, Out To CF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Detroit Tigers",
+      "home_team": "Athletics",
+      "away_sp": {
+        "name": "Tyler Holton",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Jeffrey Springs",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-31T21:40:00+00:00",
+      "park": "Sutter Health Park",
+      "park_team": "ATH",
+      "weather": "100F, Clear, Wind 6 mph, Out To CF",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "San Francisco Giants",
+      "home_team": "San Diego Padres",
+      "away_sp": {
+        "name": "Carson Whisenhunt",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Bradgley Rodriguez",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-31T21:45:00+00:00",
+      "park": "Petco Park",
+      "park_team": "SDP",
+      "weather": "77F, Partly Cloudy, Wind 9 mph, L To R",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Boston Red Sox",
+      "home_team": "Los Angeles Dodgers",
+      "away_sp": {
+        "name": "Ranger Suarez",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Edgardo Henriquez",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-31T22:10:00+00:00",
+      "park": "UNIQLO Field at Dodger Stadium",
+      "park_team": "LAD",
+      "weather": "86F, Clear, Wind 7 mph, Out To CF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Minnesota Twins",
+      "home_team": "Seattle Mariners",
+      "away_sp": {
+        "name": "Zebby Matthews",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Bryce Miller",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-07-31T22:10:00+00:00",
+      "park": "T-Mobile Park",
+      "park_team": "SEA",
+      "weather": "72F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    }
+  ]
+}
