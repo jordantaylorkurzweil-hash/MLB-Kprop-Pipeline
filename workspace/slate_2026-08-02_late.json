@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "Boston Red Sox",
+      "home_team": "Los Angeles Dodgers",
+      "away_sp": {
+        "name": "Jake Bennett",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Emmet Sheehan",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-02T19:20:00+00:00",
+      "park": "UNIQLO Field at Dodger Stadium",
+      "park_team": "LAD",
+      "weather": "90F, Sunny, Wind 8 mph, Out To RF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
