@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Andrew Alvarez",
+    "team": "WSN",
+    "matchup": "WSN @ PHI",
+    "actual_ks": 5,
+    "ip": "6.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Aaron Nola",
+    "team": "PHI",
+    "matchup": "WSN @ PHI",
+    "actual_ks": 5,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Michael McGreevy",
+    "team": "STL",
+    "matchup": "STL @ NYY",
+    "actual_ks": 5,
+    "ip": "4.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Cam Schlittler",
+    "team": "NYY",
+    "matchup": "STL @ NYY",
+    "actual_ks": 6,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Bubba Chandler",
+    "team": "PIT",
+    "matchup": "PIT @ MIL",
+    "actual_ks": 5,
+    "ip": "5.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Brandon Sproat",
+    "team": "MIL",
+    "matchup": "PIT @ MIL",
+    "actual_ks": 4,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Justin Wrobleski",
+    "team": "LAD",
+    "matchup": "LAD @ CHC",
+    "actual_ks": 4,
+    "ip": "4.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Matthew Boyd",
+    "team": "CHC",
+    "matchup": "LAD @ CHC",
+    "actual_ks": 3,
+    "ip": "6.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Logan Webb",
+    "team": "SFG",
+    "matchup": "SFG @ TEX",
+    "actual_ks": 8,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Cal Quantrill",
+    "team": "TEX",
+    "matchup": "SFG @ TEX",
+    "actual_ks": 4,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Shane Bieber",
+    "team": "TOR",
+    "matchup": "TOR @ HOU",
+    "actual_ks": 6,
+    "ip": "5.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Cristian Javier",
+    "team": "HOU",
+    "matchup": "TOR @ HOU",
+    "actual_ks": 2,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Ian Seymour",
+    "team": "TBR",
+    "matchup": "TBR @ COL",
+    "actual_ks": 9,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Michael Lorenzen",
+    "team": "COL",
+    "matchup": "TBR @ COL",
+    "actual_ks": 0,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Michael King",
+    "team": "SDP",
+    "matchup": "SDP @ ARI",
+    "actual_ks": 5,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Brandon Pfaadt",
+    "team": "ARI",
+    "matchup": "SDP @ ARI",
+    "actual_ks": 3,
+    "ip": "6.2",
+    "final_status": "Final"
+  }
+]
