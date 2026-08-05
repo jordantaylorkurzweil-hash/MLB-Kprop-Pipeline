@@ -1,0 +1,165 @@
+{
+  "games": [
+    {
+      "away_team": "St. Louis Cardinals",
+      "home_team": "New York Yankees",
+      "away_sp": {
+        "name": "Andre Pallante",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Will Warren",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-05T19:05:00+00:00",
+      "park": "Yankee Stadium",
+      "park_team": "NYY",
+      "weather": "79F, Partly Cloudy, Wind 8 mph, R To L",
+      "ppd_pct": 9,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Chicago White Sox",
+      "home_team": "Boston Red Sox",
+      "away_sp": {
+        "name": "Sean Burke",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Sonny Gray",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-05T19:10:00+00:00",
+      "park": "Fenway Park",
+      "park_team": "BOS",
+      "weather": "84F, Partly Cloudy, Wind 6 mph, Out To CF",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Miami Marlins",
+      "home_team": "Atlanta Braves",
+      "away_sp": {
+        "name": "Eury P\u00e9rez",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Bryce Elder",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-05T19:15:00+00:00",
+      "park": "Truist Park",
+      "park_team": "ATL",
+      "weather": "83F, Overcast, Wind 3 mph, In From RF",
+      "ppd_pct": 9,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Minnesota Twins",
+      "home_team": "Kansas City Royals",
+      "away_sp": {
+        "name": "Dean Kremer",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Noah Cameron",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-05T19:40:00+00:00",
+      "park": "Kauffman Stadium",
+      "park_team": "KCR",
+      "weather": "81F, Partly Cloudy, Wind 6 mph, In From CF",
+      "ppd_pct": 18,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Pittsburgh Pirates",
+      "home_team": "Milwaukee Brewers",
+      "away_sp": {
+        "name": "Paul Skenes",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Kyle Harrison",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-05T19:40:00+00:00",
+      "park": "American Family Field",
+      "park_team": "MIL",
+      "weather": "72F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "San Diego Padres",
+      "home_team": "Arizona Diamondbacks",
+      "away_sp": {
+        "name": "Casey Mize",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Mitch Bratt",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-05T21:40:00+00:00",
+      "park": "Chase Field",
+      "park_team": "ARI",
+      "weather": "72F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Detroit Tigers",
+      "home_team": "Seattle Mariners",
+      "away_sp": {
+        "name": "Drew Anderson",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Bryan Woo",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-05T21:40:00+00:00",
+      "park": "T-Mobile Park",
+      "park_team": "SEA",
+      "weather": "85F, Clear, Wind 7 mph, In From LF",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    }
+  ]
+}
