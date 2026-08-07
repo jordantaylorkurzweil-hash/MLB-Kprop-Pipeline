@@ -1,0 +1,96 @@
+{
+  "games": [
+    {
+      "away_team": "Chicago White Sox",
+      "home_team": "Boston Red Sox",
+      "away_sp": {
+        "name": "Luis Castillo",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Ranger Suarez",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-06T19:10:00+00:00",
+      "park": "Fenway Park",
+      "park_team": "BOS",
+      "weather": "89F, Partly Cloudy, Wind 7 mph, Out To CF",
+      "ppd_pct": 2,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Miami Marlins",
+      "home_team": "Atlanta Braves",
+      "away_sp": {
+        "name": "Janson Junk",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Mart\u00edn P\u00e9rez",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-06T19:15:00+00:00",
+      "park": "Truist Park",
+      "park_team": "ATL",
+      "weather": "87F, Cloudy, Wind 6 mph, L To R",
+      "ppd_pct": 18,
+      "indoor": false,
+      "status": "Delayed"
+    },
+    {
+      "away_team": "Minnesota Twins",
+      "home_team": "Kansas City Royals",
+      "away_sp": {
+        "name": "Bailey Ober",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Michael Wacha",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-06T19:40:00+00:00",
+      "park": "Kauffman Stadium",
+      "park_team": "KCR",
+      "weather": "82F, Cloudy, Wind 5 mph, R To L",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "San Diego Padres",
+      "home_team": "Arizona Diamondbacks",
+      "away_sp": {
+        "name": "Walker Buehler",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Kohl Drake",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-06T21:40:00+00:00",
+      "park": "Chase Field",
+      "park_team": "ARI",
+      "weather": "76F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    }
+  ]
+}
