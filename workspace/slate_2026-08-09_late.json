@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "Houston Astros",
+      "home_team": "San Diego Padres",
+      "away_sp": {
+        "name": "Cristian Javier",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Randy V\u00e1squez",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-09T20:20:00+00:00",
+      "park": "Petco Park",
+      "park_team": "SDP",
+      "weather": "75F, Partly Cloudy, Wind 7 mph, Out To RF",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
