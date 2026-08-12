@@ -1,0 +1,142 @@
+{
+  "games": [
+    {
+      "away_team": "Seattle Mariners",
+      "home_team": "New York Yankees",
+      "away_sp": {
+        "name": "Bryce Miller",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Will Warren",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-12T19:05:00+00:00",
+      "park": "Yankee Stadium",
+      "park_team": "NYY",
+      "weather": "85F, Clear, Wind 6 mph, Out To LF",
+      "ppd_pct": 4,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Boston Red Sox",
+      "home_team": "Toronto Blue Jays",
+      "away_sp": {
+        "name": "Ranger Suarez",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Jos\u00e9 Soriano",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-12T19:07:00+00:00",
+      "park": "Rogers Centre",
+      "park_team": "TOR",
+      "weather": "68F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "New York Mets",
+      "home_team": "Atlanta Braves",
+      "away_sp": {
+        "name": "Zac Thornton",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Tyler Mahle",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-12T19:15:00+00:00",
+      "park": "Truist Park",
+      "park_team": "ATL",
+      "weather": "91F, Partly Cloudy, Wind 5 mph, R To L",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Cincinnati Reds",
+      "home_team": "Chicago White Sox",
+      "away_sp": {
+        "name": "Rhett Lowder",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Luis Castillo",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-12T19:40:00+00:00",
+      "park": "Rate Field",
+      "park_team": "CWS",
+      "weather": "76F, Partly Cloudy, Wind 6 mph, Out To LF",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Kansas City Royals",
+      "home_team": "Los Angeles Dodgers",
+      "away_sp": {
+        "name": "Daniel Lynch IV",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Eric Lauer",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-12T22:10:00+00:00",
+      "park": "UNIQLO Field at Dodger Stadium",
+      "park_team": "LAD",
+      "weather": "74F, Partly Cloudy, Wind 10 mph, Out To CF",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Texas Rangers",
+      "home_team": "Los Angeles Angels",
+      "away_sp": {
+        "name": "Cal Quantrill",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "George Klassen",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-12T22:10:00+00:00",
+      "park": "Angel Stadium",
+      "park_team": "LAA",
+      "weather": "",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Scheduled"
+    }
+  ]
+}
