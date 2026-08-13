@@ -1,0 +1,73 @@
+{
+  "games": [
+    {
+      "away_team": "Philadelphia Phillies",
+      "home_team": "Minnesota Twins",
+      "away_sp": {
+        "name": "Aaron Nola",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Taj Bradley",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-13T19:30:00+00:00",
+      "park": "Field of Dreams",
+      "park_team": "MIN",
+      "weather": "76F, Partly Cloudy, Wind 10 mph, In From CF",
+      "ppd_pct": 2,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Texas Rangers",
+      "home_team": "Los Angeles Angels",
+      "away_sp": {
+        "name": "Jacob deGrom",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Walbert Ure\u00f1a",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-13T22:07:00+00:00",
+      "park": "Angel Stadium",
+      "park_team": "LAA",
+      "weather": "",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Scheduled"
+    },
+    {
+      "away_team": "Milwaukee Brewers",
+      "home_team": "Los Angeles Dodgers",
+      "away_sp": {
+        "name": "Shane Drohan",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Roki Sasaki",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-13T22:10:00+00:00",
+      "park": "UNIQLO Field at Dodger Stadium",
+      "park_team": "LAD",
+      "weather": "84F, Cloudy, Wind 9 mph, Varies",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
