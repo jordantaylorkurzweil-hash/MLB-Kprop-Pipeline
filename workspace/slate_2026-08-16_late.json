@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "Seattle Mariners",
+      "home_team": "Houston Astros",
+      "away_sp": {
+        "name": "Bryan Woo",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Hunter Brown",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-16T19:20:00+00:00",
+      "park": "Daikin Park",
+      "park_team": "HOU",
+      "weather": "76F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    }
+  ]
+}
