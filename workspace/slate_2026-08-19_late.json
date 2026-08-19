@@ -1,0 +1,119 @@
+{
+  "games": [
+    {
+      "away_team": "Athletics",
+      "home_team": "Kansas City Royals",
+      "away_sp": {
+        "name": "Jeffrey Springs",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Seth Lugo",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-19T19:40:00+00:00",
+      "park": "Kauffman Stadium",
+      "park_team": "KCR",
+      "weather": "81F, Partly Cloudy, Wind 6 mph, In From CF",
+      "ppd_pct": 5,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Seattle Mariners",
+      "home_team": "Milwaukee Brewers",
+      "away_sp": {
+        "name": "Logan Gilbert",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Dustin May",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-19T19:40:00+00:00",
+      "park": "American Family Field",
+      "park_team": "MIL",
+      "weather": "73F, Partly Cloudy, Wind 6 mph, In From LF",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Washington Nationals",
+      "home_team": "Texas Rangers",
+      "away_sp": {
+        "name": "Cade Cavalli",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Kumar Rocker",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-19T20:05:00+00:00",
+      "park": "Globe Life Field",
+      "park_team": "TEX",
+      "weather": "72F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Los Angeles Angels",
+      "home_team": "Houston Astros",
+      "away_sp": {
+        "name": "Walbert Ure\u00f1a",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Ethan Pecko",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-19T20:10:00+00:00",
+      "park": "Daikin Park",
+      "park_team": "HOU",
+      "weather": "72F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Los Angeles Dodgers",
+      "home_team": "Colorado Rockies",
+      "away_sp": {
+        "name": "Roki Sasaki",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Kyle Freeland",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-19T20:40:00+00:00",
+      "park": "Coors Field",
+      "park_team": "COL",
+      "weather": "88F, Partly Cloudy, Wind 8 mph, R To L",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
