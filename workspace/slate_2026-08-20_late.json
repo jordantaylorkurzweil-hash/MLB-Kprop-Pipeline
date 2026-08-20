@@ -1,0 +1,50 @@
+{
+  "games": [
+    {
+      "away_team": "Washington Nationals",
+      "home_team": "Texas Rangers",
+      "away_sp": {
+        "name": "Andrew Alvarez",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Jacob deGrom",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-20T20:05:00+00:00",
+      "park": "Globe Life Field",
+      "park_team": "TEX",
+      "weather": "72F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Los Angeles Angels",
+      "home_team": "Houston Astros",
+      "away_sp": {
+        "name": "Grayson Rodriguez",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Peter Lambert",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-20T20:10:00+00:00",
+      "park": "Daikin Park",
+      "park_team": "HOU",
+      "weather": "72F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    }
+  ]
+}
