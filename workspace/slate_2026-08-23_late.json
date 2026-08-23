@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "Atlanta Braves",
+      "home_team": "Milwaukee Brewers",
+      "away_sp": {
+        "name": "Tyler Mahle",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Shane Drohan",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-23T19:10:00+00:00",
+      "park": "Journey Bank Ballpark",
+      "park_team": "MIL",
+      "weather": "72F, Partly Cloudy, Wind 10 mph, Out To RF",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    }
+  ]
+}
