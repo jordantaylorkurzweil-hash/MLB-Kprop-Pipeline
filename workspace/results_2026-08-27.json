@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Gabriel Hughes",
+    "team": "COL",
+    "matchup": "COL @ WSN",
+    "actual_ks": 3,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Jake Irvin",
+    "team": "WSN",
+    "matchup": "COL @ WSN",
+    "actual_ks": 6,
+    "ip": "4.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Trevor Rogers",
+    "team": "BAL",
+    "matchup": "BAL @ STL",
+    "actual_ks": 7,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Gordon Graceffo",
+    "team": "STL",
+    "matchup": "BAL @ STL",
+    "actual_ks": 4,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Hayden Wesneski",
+    "team": "HOU",
+    "matchup": "HOU @ NYY",
+    "actual_ks": 6,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Gerrit Cole",
+    "team": "NYY",
+    "matchup": "HOU @ NYY",
+    "actual_ks": 5,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Noah Cameron",
+    "team": "KCR",
+    "matchup": "KCR @ TOR",
+    "actual_ks": 3,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Spencer Arrighetti",
+    "team": "TOR",
+    "matchup": "KCR @ TOR",
+    "actual_ks": 4,
+    "ip": "4.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Jacob Misiorowski",
+    "team": "MIL",
+    "matchup": "MIL @ NYM",
+    "actual_ks": 6,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Sean Manaea",
+    "team": "NYM",
+    "matchup": "MIL @ NYM",
+    "actual_ks": 3,
+    "ip": "5.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Yoshinobu Yamamoto",
+    "team": "LAD",
+    "matchup": "LAD @ ATL",
+    "actual_ks": 8,
+    "ip": "6.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Chris Sale",
+    "team": "ATL",
+    "matchup": "LAD @ ATL",
+    "actual_ks": 11,
+    "ip": "9.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Jose Cabrera",
+    "team": "ARI",
+    "matchup": "ARI @ SFG",
+    "actual_ks": 4,
+    "ip": "4.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Landen Roupp",
+    "team": "SFG",
+    "matchup": "ARI @ SFG",
+    "actual_ks": 3,
+    "ip": "5.0",
+    "final_status": "Final"
+  }
+]
