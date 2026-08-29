@@ -18,10 +18,10 @@
       "first_pitch_et": "2026-08-28T19:10:00+00:00",
       "park": "Progressive Field",
       "park_team": "CLE",
-      "weather": "",
+      "weather": "73F, Clear, Wind 7 mph, In From RF",
       "ppd_pct": 0,
       "indoor": false,
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "away_team": "Houston Astros",
@@ -41,10 +41,10 @@
       "first_pitch_et": "2026-08-28T19:10:00+00:00",
       "park": "Citi Field",
       "park_team": "NYM",
-      "weather": "",
-      "ppd_pct": 2,
+      "weather": "79F, Partly Cloudy, Wind 5 mph, In From LF",
+      "ppd_pct": 0,
       "indoor": false,
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "away_team": "San Diego Padres",
@@ -64,16 +64,16 @@
       "first_pitch_et": "2026-08-28T19:10:00+00:00",
       "park": "Tropicana Field",
       "park_team": "TBR",
-      "weather": "",
+      "weather": "72F, Dome, Wind 0 mph, None",
       "ppd_pct": 0,
       "indoor": true,
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "away_team": "Seattle Mariners",
       "home_team": "Toronto Blue Jays",
       "away_sp": {
-        "name": "TBD",
+        "name": "Emerson Hancock",
         "throws": "R"
       },
       "home_sp": {
@@ -87,10 +87,10 @@
       "first_pitch_et": "2026-08-28T19:15:00+00:00",
       "park": "Rogers Centre",
       "park_team": "TOR",
-      "weather": "",
+      "weather": "69F, Clear, Wind 3 mph, Out To LF",
       "ppd_pct": 0,
       "indoor": true,
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "away_team": "Colorado Rockies",
@@ -110,10 +110,10 @@
       "first_pitch_et": "2026-08-28T19:15:00+00:00",
       "park": "Truist Park",
       "park_team": "ATL",
-      "weather": "",
-      "ppd_pct": 6,
+      "weather": "84F, Cloudy, Wind 5 mph, Out To RF",
+      "ppd_pct": 7,
       "indoor": false,
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "away_team": "Boston Red Sox",
@@ -133,10 +133,10 @@
       "first_pitch_et": "2026-08-28T19:15:00+00:00",
       "park": "Yankee Stadium",
       "park_team": "NYY",
-      "weather": "",
-      "ppd_pct": 1,
+      "weather": "81F, Partly Cloudy, Wind 7 mph, Out To RF",
+      "ppd_pct": 0,
       "indoor": false,
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "away_team": "Texas Rangers",
@@ -156,10 +156,10 @@
       "first_pitch_et": "2026-08-28T19:40:00+00:00",
       "park": "American Family Field",
       "park_team": "MIL",
-      "weather": "",
+      "weather": "79F, Partly Cloudy, Wind 11 mph, R To L",
       "ppd_pct": 0,
       "indoor": true,
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "away_team": "Chicago White Sox",
@@ -179,10 +179,10 @@
       "first_pitch_et": "2026-08-28T20:10:00+00:00",
       "park": "Target Field",
       "park_team": "MIN",
-      "weather": "",
-      "ppd_pct": 9,
+      "weather": "78F, Partly Cloudy, Wind 6 mph, Out To LF",
+      "ppd_pct": 5,
       "indoor": false,
-      "status": "Scheduled"
+      "status": "In Progress"
     },
     {
       "away_team": "Pittsburgh Pirates",
@@ -202,10 +202,10 @@
       "first_pitch_et": "2026-08-28T20:15:00+00:00",
       "park": "Busch Stadium",
       "park_team": "STL",
-      "weather": "",
+      "weather": "82F, Clear, Wind 4 mph, In From RF",
       "ppd_pct": 0,
       "indoor": false,
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "away_team": "Philadelphia Phillies",
@@ -225,10 +225,10 @@
       "first_pitch_et": "2026-08-28T21:38:00+00:00",
       "park": "Angel Stadium",
       "park_team": "LAA",
-      "weather": "",
-      "ppd_pct": 2,
+      "weather": "89F, Clear, Wind 5 mph, R To L",
+      "ppd_pct": 1,
       "indoor": false,
-      "status": "Scheduled"
+      "status": "In Progress"
     },
     {
       "away_team": "Baltimore Orioles",
@@ -238,7 +238,7 @@
         "throws": "R"
       },
       "home_sp": {
-        "name": "TBD",
+        "name": "Jacob Lopez",
         "throws": "R"
       },
       "away_lineup": [],
@@ -248,10 +248,10 @@
       "first_pitch_et": "2026-08-28T21:40:00+00:00",
       "park": "Sutter Health Park",
       "park_team": "ATH",
-      "weather": "",
+      "weather": "74F, Cloudy, Wind 7 mph, Out To LF",
       "ppd_pct": 0,
       "indoor": true,
-      "status": "Scheduled"
+      "status": "In Progress"
     },
     {
       "away_team": "Arizona Diamondbacks",
@@ -271,10 +271,10 @@
       "first_pitch_et": "2026-08-28T22:15:00+00:00",
       "park": "Oracle Park",
       "park_team": "SFG",
-      "weather": "",
-      "ppd_pct": 1,
+      "weather": "63F, Partly Cloudy, Wind 13 mph, Varies",
+      "ppd_pct": 0,
       "indoor": false,
-      "status": "Scheduled"
+      "status": "In Progress"
     }
   ]
 }
