@@ -1,0 +1,119 @@
+{
+  "games": [
+    {
+      "away_team": "Boston Red Sox",
+      "home_team": "New York Yankees",
+      "away_sp": {
+        "name": "Alec Gamboa",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Max Fried",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-29T19:15:00+00:00",
+      "park": "Yankee Stadium",
+      "park_team": "NYY",
+      "weather": "75F, Clear, Wind 4 mph, In From LF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Arizona Diamondbacks",
+      "home_team": "San Francisco Giants",
+      "away_sp": {
+        "name": "Mitch Bratt",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Yunior Marte",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-29T22:05:00+00:00",
+      "park": "Oracle Park",
+      "park_team": "SFG",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Scheduled"
+    },
+    {
+      "away_team": "Texas Rangers",
+      "home_team": "Milwaukee Brewers",
+      "away_sp": {
+        "name": "Cal Quantrill",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Shane Drohan",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-29T19:15:00+00:00",
+      "park": "American Family Field",
+      "park_team": "MIL",
+      "weather": "77F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Baltimore Orioles",
+      "home_team": "Athletics",
+      "away_sp": {
+        "name": "Shane Baz",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Jack Perkins",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-29T22:05:00+00:00",
+      "park": "Sutter Health Park",
+      "park_team": "ATH",
+      "weather": "77F, Partly Cloudy, Wind 7 mph, Out To LF",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Philadelphia Phillies",
+      "home_team": "Los Angeles Angels",
+      "away_sp": {
+        "name": "Cristopher S\u00e1nchez",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Ryan Johnson",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-29T22:07:00+00:00",
+      "park": "Angel Stadium",
+      "park_team": "LAA",
+      "weather": "80F, Partly Cloudy, Wind 8 mph, R To L",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
