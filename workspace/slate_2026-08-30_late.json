@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "Cincinnati Reds",
+      "home_team": "Chicago Cubs",
+      "away_sp": {
+        "name": "Chase Burns",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Shota Imanaga",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-08-30T19:20:00+00:00",
+      "park": "Wrigley Field",
+      "park_team": "CHC",
+      "weather": "79F, Cloudy, Wind 11 mph, Varies",
+      "ppd_pct": 7,
+      "indoor": false,
+      "status": "Delayed Start"
+    }
+  ]
+}
