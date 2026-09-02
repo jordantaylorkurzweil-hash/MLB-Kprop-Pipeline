@@ -1,0 +1,142 @@
+{
+  "games": [
+    {
+      "away_team": "Detroit Tigers",
+      "home_team": "Minnesota Twins",
+      "away_sp": {
+        "name": "Drew Anderson",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Dean Kremer",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-02T19:40:00+00:00",
+      "park": "Target Field",
+      "park_team": "MIN",
+      "weather": "89F, Clear, Wind 2 mph, In From CF",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Warmup"
+    },
+    {
+      "away_team": "Miami Marlins",
+      "home_team": "Kansas City Royals",
+      "away_sp": {
+        "name": "Eury P\u00e9rez",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Noah Cameron",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-02T19:40:00+00:00",
+      "park": "Kauffman Stadium",
+      "park_team": "KCR",
+      "weather": "100F, Clear, Wind 9 mph, R To L",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Warmup"
+    },
+    {
+      "away_team": "Milwaukee Brewers",
+      "home_team": "Chicago Cubs",
+      "away_sp": {
+        "name": "Jacob Misiorowski",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "David Peterson",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-02T19:40:00+00:00",
+      "park": "Wrigley Field",
+      "park_team": "CHC",
+      "weather": "92F, Partly Cloudy, Wind 10 mph, L To R",
+      "ppd_pct": 3,
+      "indoor": false,
+      "status": "Warmup"
+    },
+    {
+      "away_team": "Chicago White Sox",
+      "home_team": "Houston Astros",
+      "away_sp": {
+        "name": "Davis Martin",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Hayden Wesneski",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-02T20:10:00+00:00",
+      "park": "Daikin Park",
+      "park_team": "HOU",
+      "weather": "73F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "New York Yankees",
+      "home_team": "Los Angeles Angels",
+      "away_sp": {
+        "name": "Cam Schlittler",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Reid Detmers",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-02T21:38:00+00:00",
+      "park": "Angel Stadium",
+      "park_team": "LAA",
+      "weather": "83F, Clear, Wind 9 mph, Out To RF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "St. Louis Cardinals",
+      "home_team": "Los Angeles Dodgers",
+      "away_sp": {
+        "name": "Brycen Mautz",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Yoshinobu Yamamoto",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-02T22:10:00+00:00",
+      "park": "UNIQLO Field at Dodger Stadium",
+      "park_team": "LAD",
+      "weather": "82F, Clear, Wind 9 mph, Out To RF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
