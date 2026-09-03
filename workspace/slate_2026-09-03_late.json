@@ -1,0 +1,142 @@
+{
+  "games": [
+    {
+      "away_team": "Boston Red Sox",
+      "home_team": "Baltimore Orioles",
+      "away_sp": {
+        "name": "Jake Bennett",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Brandon Young",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-03T19:15:00+00:00",
+      "park": "Oriole Park at Camden Yards",
+      "park_team": "BAL",
+      "weather": "89F, Partly Cloudy, Wind 5 mph, Out To RF",
+      "ppd_pct": 16,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Milwaukee Brewers",
+      "home_team": "Chicago Cubs",
+      "away_sp": {
+        "name": "Logan Henderson",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Kevin Gausman",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-03T19:15:00+00:00",
+      "park": "Wrigley Field",
+      "park_team": "CHC",
+      "weather": "81F, Partly Cloudy, Wind 7 mph, In From RF",
+      "ppd_pct": 2,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Miami Marlins",
+      "home_team": "Kansas City Royals",
+      "away_sp": {
+        "name": "Sandy Alcantara",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Michael Wacha",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-03T19:40:00+00:00",
+      "park": "Kauffman Stadium",
+      "park_team": "KCR",
+      "weather": "97F, Clear, Wind 12 mph, Out To LF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Warmup"
+    },
+    {
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Texas Rangers",
+      "away_sp": {
+        "name": "Shane McClanahan",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Cal Quantrill",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-03T20:05:00+00:00",
+      "park": "Globe Life Field",
+      "park_team": "TEX",
+      "weather": "74F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Athletics",
+      "home_team": "Seattle Mariners",
+      "away_sp": {
+        "name": "Jack Perkins",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Kade Anderson",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-03T21:40:00+00:00",
+      "park": "T-Mobile Park",
+      "park_team": "SEA",
+      "weather": "66F, Partly Cloudy, Wind 7 mph, Out To RF",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "St. Louis Cardinals",
+      "home_team": "Los Angeles Dodgers",
+      "away_sp": {
+        "name": "Quinn Mathews",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Tarik Skubal",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-03T22:10:00+00:00",
+      "park": "UNIQLO Field at Dodger Stadium",
+      "park_team": "LAD",
+      "weather": "77F, Partly Cloudy, Wind 7 mph, Out To RF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
