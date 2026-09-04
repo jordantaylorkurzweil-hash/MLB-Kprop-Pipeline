@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Blade Tidwell",
+    "team": "SFG",
+    "matchup": "SFG @ PIT",
+    "actual_ks": 5,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Lake Bachar",
+    "team": "PIT",
+    "matchup": "SFG @ PIT",
+    "actual_ks": 3,
+    "ip": "2.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Jos\u00e9 Soriano",
+    "team": "TOR",
+    "matchup": "TOR @ CLE",
+    "actual_ks": 2,
+    "ip": "4.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Tanner Bibee",
+    "team": "CLE",
+    "matchup": "TOR @ CLE",
+    "actual_ks": 4,
+    "ip": "4.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Luis Castillo",
+    "team": "CWS",
+    "matchup": "CWS @ HOU",
+    "actual_ks": 3,
+    "ip": "4.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Hunter Brown",
+    "team": "HOU",
+    "matchup": "CWS @ HOU",
+    "actual_ks": 7,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Jake Bennett",
+    "team": "BOS",
+    "matchup": "BOS @ BAL",
+    "actual_ks": 7,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Brandon Young",
+    "team": "BAL",
+    "matchup": "BOS @ BAL",
+    "actual_ks": 7,
+    "ip": "6.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Logan Henderson",
+    "team": "MIL",
+    "matchup": "MIL @ CHC",
+    "actual_ks": 7,
+    "ip": "7.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Kevin Gausman",
+    "team": "CHC",
+    "matchup": "MIL @ CHC",
+    "actual_ks": 9,
+    "ip": "7.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Sandy Alcantara",
+    "team": "MIA",
+    "matchup": "MIA @ KCR",
+    "actual_ks": 2,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Michael Wacha",
+    "team": "KCR",
+    "matchup": "MIA @ KCR",
+    "actual_ks": 7,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Shane McClanahan",
+    "team": "TBR",
+    "matchup": "TBR @ TEX",
+    "actual_ks": 3,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Cal Quantrill",
+    "team": "TEX",
+    "matchup": "TBR @ TEX",
+    "actual_ks": 5,
+    "ip": "7.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Jack Perkins",
+    "team": "ATH",
+    "matchup": "ATH @ SEA",
+    "actual_ks": 7,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Kade Anderson",
+    "team": "SEA",
+    "matchup": "ATH @ SEA",
+    "actual_ks": 3,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Quinn Mathews",
+    "team": "STL",
+    "matchup": "STL @ LAD",
+    "actual_ks": 4,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Tarik Skubal",
+    "team": "LAD",
+    "matchup": "STL @ LAD",
+    "actual_ks": 6,
+    "ip": "5.2",
+    "final_status": "Final"
+  }
+]
