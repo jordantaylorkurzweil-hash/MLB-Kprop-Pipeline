@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "Washington Nationals",
+      "home_team": "Los Angeles Dodgers",
+      "away_sp": {
+        "name": "Andrew Alvarez",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Justin Wrobleski",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-06T22:10:00+00:00",
+      "park": "UNIQLO Field at Dodger Stadium",
+      "park_team": "LAD",
+      "weather": "77F, Cloudy, Wind 2 mph, Varies",
+      "ppd_pct": 3,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
