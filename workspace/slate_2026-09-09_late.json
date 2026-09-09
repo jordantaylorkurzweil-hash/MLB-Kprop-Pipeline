@@ -1,0 +1,142 @@
+{
+  "games": [
+    {
+      "away_team": "Colorado Rockies",
+      "home_team": "New York Yankees",
+      "away_sp": {
+        "name": "Tomoyuki Sugano",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Will Warren",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-09T19:05:00+00:00",
+      "park": "Yankee Stadium",
+      "park_team": "NYY",
+      "weather": "81F, Cloudy, Wind 9 mph, L To R",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Atlanta Braves",
+      "away_sp": {
+        "name": "Griffin Jax",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Reynaldo L\u00f3pez",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-09T19:15:00+00:00",
+      "park": "Truist Park",
+      "park_team": "ATL",
+      "weather": "87F, Partly Cloudy, Wind 4 mph, L To R",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Arizona Diamondbacks",
+      "home_team": "Kansas City Royals",
+      "away_sp": {
+        "name": "Zac Gallen",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Daniel Lynch IV",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-09T19:40:00+00:00",
+      "park": "Kauffman Stadium",
+      "park_team": "KCR",
+      "weather": "75F, Rain, Wind 4 mph, In From RF",
+      "ppd_pct": 26,
+      "indoor": false,
+      "status": "Delayed Start"
+    },
+    {
+      "away_team": "Pittsburgh Pirates",
+      "home_team": "Chicago White Sox",
+      "away_sp": {
+        "name": "Lake Bachar",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Davis Martin",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-09T19:40:00+00:00",
+      "park": "Rate Field",
+      "park_team": "CWS",
+      "weather": "79F, Cloudy, Wind 8 mph, Out To LF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Warmup"
+    },
+    {
+      "away_team": "Chicago Cubs",
+      "home_team": "Milwaukee Brewers",
+      "away_sp": {
+        "name": "Kevin Gausman",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Logan Henderson",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-09T19:40:00+00:00",
+      "park": "American Family Field",
+      "park_team": "MIL",
+      "weather": "78F, Partly Cloudy, Wind 7 mph, Out To LF",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Warmup"
+    },
+    {
+      "away_team": "Cincinnati Reds",
+      "home_team": "Los Angeles Dodgers",
+      "away_sp": {
+        "name": "Rhett Lowder",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Yoshinobu Yamamoto",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-09T22:10:00+00:00",
+      "park": "UNIQLO Field at Dodger Stadium",
+      "park_team": "LAD",
+      "weather": "103F, Clear, Wind 9 mph, Out To RF",
+      "ppd_pct": 2,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
