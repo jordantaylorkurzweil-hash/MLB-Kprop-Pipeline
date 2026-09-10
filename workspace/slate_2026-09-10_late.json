@@ -1,0 +1,50 @@
+{
+  "games": [
+    {
+      "away_team": "Colorado Rockies",
+      "home_team": "New York Yankees",
+      "away_sp": {
+        "name": "Ryan Feltner",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Max Fried",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-10T19:05:00+00:00",
+      "park": "Yankee Stadium",
+      "park_team": "NYY",
+      "weather": "82F, Cloudy, Wind 5 mph, In From RF",
+      "ppd_pct": 3,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Pittsburgh Pirates",
+      "home_team": "Chicago White Sox",
+      "away_sp": {
+        "name": "Jared Jones",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Hagen Smith",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-10T19:40:00+00:00",
+      "park": "Rate Field",
+      "park_team": "CWS",
+      "weather": "74F, Clear, Wind 8 mph, L To R",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
