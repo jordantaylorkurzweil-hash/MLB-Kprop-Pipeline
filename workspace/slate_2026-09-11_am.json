@@ -1,0 +1,349 @@
+{
+  "games": [
+    {
+      "away_team": "Pittsburgh Pirates",
+      "home_team": "Chicago Cubs",
+      "away_sp": {
+        "name": "Wilber Dotel",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Shota Imanaga",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-11T14:20:00+00:00",
+      "park": "Wrigley Field",
+      "park_team": "CHC",
+      "weather": "74F, Sunny, Wind 9 mph, R To L",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Warmup"
+    },
+    {
+      "away_team": "Colorado Rockies",
+      "home_team": "Detroit Tigers",
+      "away_sp": {
+        "name": "Mason Adams",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Framber Valdez",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-11T18:40:00+00:00",
+      "park": "Comerica Park",
+      "park_team": "DET",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Scheduled"
+    },
+    {
+      "away_team": "Los Angeles Angels",
+      "home_team": "Washington Nationals",
+      "away_sp": {
+        "name": "Yusei Kikuchi",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Cade Cavalli",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-11T18:45:00+00:00",
+      "park": "Nationals Park",
+      "park_team": "WSN",
+      "weather": "",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Scheduled"
+    },
+    {
+      "away_team": "New York Mets",
+      "home_team": "New York Yankees",
+      "away_sp": {
+        "name": "Nolan McLean",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Carlos Rod\u00f3n",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-11T19:05:00+00:00",
+      "park": "Yankee Stadium",
+      "park_team": "NYY",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Scheduled"
+    },
+    {
+      "away_team": "Baltimore Orioles",
+      "home_team": "Toronto Blue Jays",
+      "away_sp": {
+        "name": "Chris Bassitt",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Max Scherzer",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-11T19:07:00+00:00",
+      "park": "Rogers Centre",
+      "park_team": "TOR",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Scheduled"
+    },
+    {
+      "away_team": "Kansas City Royals",
+      "home_team": "Boston Red Sox",
+      "away_sp": {
+        "name": "Seth Lugo",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Sonny Gray",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-11T19:10:00+00:00",
+      "park": "Fenway Park",
+      "park_team": "BOS",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Scheduled"
+    },
+    {
+      "away_team": "Houston Astros",
+      "home_team": "Tampa Bay Rays",
+      "away_sp": {
+        "name": "Miguel Ullola",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Drew Rasmussen",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-11T19:10:00+00:00",
+      "park": "Tropicana Field",
+      "park_team": "TBR",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Scheduled"
+    },
+    {
+      "away_team": "Los Angeles Dodgers",
+      "home_team": "Miami Marlins",
+      "away_sp": {
+        "name": "TBD",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Ryan Gusto",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-11T19:10:00+00:00",
+      "park": "loanDepot park",
+      "park_team": "MIA",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Scheduled"
+    },
+    {
+      "away_team": "Philadelphia Phillies",
+      "home_team": "Atlanta Braves",
+      "away_sp": {
+        "name": "Aaron Nola",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Chris Sale",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-11T19:15:00+00:00",
+      "park": "Truist Park",
+      "park_team": "ATL",
+      "weather": "",
+      "ppd_pct": 7,
+      "indoor": false,
+      "status": "Scheduled"
+    },
+    {
+      "away_team": "Cincinnati Reds",
+      "home_team": "Milwaukee Brewers",
+      "away_sp": {
+        "name": "Andrew Abbott",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Dustin May",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-11T19:45:00+00:00",
+      "park": "American Family Field",
+      "park_team": "MIL",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Scheduled"
+    },
+    {
+      "away_team": "Cleveland Guardians",
+      "home_team": "Minnesota Twins",
+      "away_sp": {
+        "name": "Parker Messick",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Taj Bradley",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-11T20:10:00+00:00",
+      "park": "Target Field",
+      "park_team": "MIN",
+      "weather": "",
+      "ppd_pct": 21,
+      "indoor": false,
+      "status": "Scheduled"
+    },
+    {
+      "away_team": "Chicago White Sox",
+      "home_team": "St. Louis Cardinals",
+      "away_sp": {
+        "name": "Anthony Kay",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Matthew Liberatore",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-11T20:15:00+00:00",
+      "park": "Busch Stadium",
+      "park_team": "STL",
+      "weather": "",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Scheduled"
+    },
+    {
+      "away_team": "Seattle Mariners",
+      "home_team": "Athletics",
+      "away_sp": {
+        "name": "George Kirby",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Jeffrey Springs",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-11T21:40:00+00:00",
+      "park": "Sutter Health Park",
+      "park_team": "ATH",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Scheduled"
+    },
+    {
+      "away_team": "Texas Rangers",
+      "home_team": "Arizona Diamondbacks",
+      "away_sp": {
+        "name": "MacKenzie Gore",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "TBD",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-11T21:40:00+00:00",
+      "park": "Chase Field",
+      "park_team": "ARI",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Scheduled"
+    },
+    {
+      "away_team": "San Diego Padres",
+      "home_team": "San Francisco Giants",
+      "away_sp": {
+        "name": "Robbie Ray",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Anthony Molina",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-11T22:15:00+00:00",
+      "park": "Oracle Park",
+      "park_team": "SFG",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Scheduled"
+    }
+  ]
+}
