@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Nick Martinez",
+    "team": "TBR",
+    "matchup": "TBR @ ATL",
+    "actual_ks": 3,
+    "ip": "6.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Mart\u00edn P\u00e9rez",
+    "team": "ATL",
+    "matchup": "TBR @ ATL",
+    "actual_ks": 4,
+    "ip": "7.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Cristian Javier",
+    "team": "HOU",
+    "matchup": "HOU @ PHI",
+    "actual_ks": 5,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Zack Wheeler",
+    "team": "PHI",
+    "matchup": "HOU @ PHI",
+    "actual_ks": 9,
+    "ip": "7.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Jacob deGrom",
+    "team": "TEX",
+    "matchup": "TEX @ SEA",
+    "actual_ks": 12,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Logan Gilbert",
+    "team": "SEA",
+    "matchup": "TEX @ SEA",
+    "actual_ks": 11,
+    "ip": "7.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Ryan Feltner",
+    "team": "COL",
+    "matchup": "COL @ NYY",
+    "actual_ks": 2,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Max Fried",
+    "team": "NYY",
+    "matchup": "COL @ NYY",
+    "actual_ks": 7,
+    "ip": "3.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Jared Jones",
+    "team": "PIT",
+    "matchup": "PIT @ CWS",
+    "actual_ks": 8,
+    "ip": "7.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Hagen Smith",
+    "team": "CWS",
+    "matchup": "PIT @ CWS",
+    "actual_ks": 3,
+    "ip": "2.0",
+    "final_status": "Final"
+  }
+]
