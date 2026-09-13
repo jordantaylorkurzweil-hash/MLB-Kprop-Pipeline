@@ -1,0 +1,349 @@
+{
+  "games": [
+    {
+      "away_team": "Colorado Rockies",
+      "home_team": "Detroit Tigers",
+      "away_sp": {
+        "name": "Gabriel Hughes",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Jackson Jobe",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-13T12:10:00+00:00",
+      "park": "Comerica Park",
+      "park_team": "DET",
+      "weather": "78F, Partly Cloudy, Wind 9 mph, Out To CF",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Los Angeles Angels",
+      "home_team": "Washington Nationals",
+      "away_sp": {
+        "name": "Grayson Rodriguez",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Riley Cornelio",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-13T13:35:00+00:00",
+      "park": "Nationals Park",
+      "park_team": "WSN",
+      "weather": "84F, Partly Cloudy, Wind 8 mph, Out To RF",
+      "ppd_pct": 4,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Philadelphia Phillies",
+      "home_team": "Atlanta Braves",
+      "away_sp": {
+        "name": "Andrew Painter",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Grant Holmes",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-13T13:35:00+00:00",
+      "park": "Truist Park",
+      "park_team": "ATL",
+      "weather": "88F, Partly Cloudy, Wind 8 mph, Out To LF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "New York Mets",
+      "home_team": "New York Yankees",
+      "away_sp": {
+        "name": "Christian Scott",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Cam Schlittler",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-13T13:35:00+00:00",
+      "park": "Yankee Stadium",
+      "park_team": "NYY",
+      "weather": "72F, Rain, Wind 5 mph, In From LF",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Baltimore Orioles",
+      "home_team": "Toronto Blue Jays",
+      "away_sp": {
+        "name": "Trevor Rogers",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Dylan Cease",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-13T13:37:00+00:00",
+      "park": "Rogers Centre",
+      "park_team": "TOR",
+      "weather": "78F, Partly Cloudy, Wind 6 mph, R To L",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Houston Astros",
+      "home_team": "Tampa Bay Rays",
+      "away_sp": {
+        "name": "Hayden Wesneski",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Freddy Peralta",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-13T13:40:00+00:00",
+      "park": "Tropicana Field",
+      "park_team": "TBR",
+      "weather": "72F, Dome, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Los Angeles Dodgers",
+      "home_team": "Miami Marlins",
+      "away_sp": {
+        "name": "Emmet Sheehan",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Eury P\u00e9rez",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-13T13:40:00+00:00",
+      "park": "loanDepot park",
+      "park_team": "MIA",
+      "weather": "72F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Cleveland Guardians",
+      "home_team": "Minnesota Twins",
+      "away_sp": {
+        "name": "Tanner Bibee",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Joe Ryan",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-13T14:10:00+00:00",
+      "park": "Target Field",
+      "park_team": "MIN",
+      "weather": "67F, Partly Cloudy, Wind 9 mph, Out To RF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Warmup"
+    },
+    {
+      "away_team": "Cincinnati Reds",
+      "home_team": "Milwaukee Brewers",
+      "away_sp": {
+        "name": "Chase Burns",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Robert Gasser",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-13T14:10:00+00:00",
+      "park": "American Family Field",
+      "park_team": "MIL",
+      "weather": "72F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Warmup"
+    },
+    {
+      "away_team": "Chicago White Sox",
+      "home_team": "St. Louis Cardinals",
+      "away_sp": {
+        "name": "David Sandlin",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Michael McGreevy",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-13T14:15:00+00:00",
+      "park": "Busch Stadium",
+      "park_team": "STL",
+      "weather": "82F, Cloudy, Wind 6 mph, Out To RF",
+      "ppd_pct": 2,
+      "indoor": false,
+      "status": "Warmup"
+    },
+    {
+      "away_team": "Pittsburgh Pirates",
+      "home_team": "Chicago Cubs",
+      "away_sp": {
+        "name": "Bubba Chandler",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Matthew Boyd",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-13T14:20:00+00:00",
+      "park": "Wrigley Field",
+      "park_team": "CHC",
+      "weather": "71F, Partly Cloudy, Wind 12 mph, In From LF",
+      "ppd_pct": 37,
+      "indoor": false,
+      "status": "Warmup"
+    },
+    {
+      "away_team": "Kansas City Royals",
+      "home_team": "Boston Red Sox",
+      "away_sp": {
+        "name": "Noah Cameron",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Payton Tolle",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-13T15:05:00+00:00",
+      "park": "Fenway Park",
+      "park_team": "BOS",
+      "weather": "69F, Cloudy, Wind 6 mph, In From RF",
+      "ppd_pct": 4,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Seattle Mariners",
+      "home_team": "Athletics",
+      "away_sp": {
+        "name": "Bryce Miller",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Jacob Lopez",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-13T16:05:00+00:00",
+      "park": "Sutter Health Park",
+      "park_team": "ATH",
+      "weather": "77F, Sunny, Wind 7 mph, L To R",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Texas Rangers",
+      "home_team": "Arizona Diamondbacks",
+      "away_sp": {
+        "name": "Cal Quantrill",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Eduardo Rodriguez",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-13T16:10:00+00:00",
+      "park": "Chase Field",
+      "park_team": "ARI",
+      "weather": "72F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "San Diego Padres",
+      "home_team": "San Francisco Giants",
+      "away_sp": {
+        "name": "Nick Pivetta",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Logan Webb",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-13T19:20:00+00:00",
+      "park": "Oracle Park",
+      "park_team": "SFG",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Scheduled"
+    }
+  ]
+}
