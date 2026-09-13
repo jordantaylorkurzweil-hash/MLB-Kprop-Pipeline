@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "San Diego Padres",
+      "home_team": "San Francisco Giants",
+      "away_sp": {
+        "name": "Nick Pivetta",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Logan Webb",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-13T19:20:00+00:00",
+      "park": "Oracle Park",
+      "park_team": "SFG",
+      "weather": "68F, Sunny, Wind 19 mph, Out To CF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Warmup"
+    }
+  ]
+}
