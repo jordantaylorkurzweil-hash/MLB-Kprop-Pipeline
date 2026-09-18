@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Kyle Harrison",
+    "team": "MIL",
+    "matchup": "MIL @ PIT",
+    "actual_ks": 2,
+    "ip": "1.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Wilber Dotel",
+    "team": "PIT",
+    "matchup": "MIL @ PIT",
+    "actual_ks": 2,
+    "ip": "2.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Justin Wrobleski",
+    "team": "LAD",
+    "matchup": "LAD @ CIN",
+    "actual_ks": 3,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Brady Singer",
+    "team": "CIN",
+    "matchup": "LAD @ CIN",
+    "actual_ks": 0,
+    "ip": "3.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Jeffrey Springs",
+    "team": "ATH",
+    "matchup": "ATH @ TBR",
+    "actual_ks": 4,
+    "ip": "3.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Drew Rasmussen",
+    "team": "TBR",
+    "matchup": "ATH @ TBR",
+    "actual_ks": 3,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Michael King",
+    "team": "SDP",
+    "matchup": "SDP @ COL",
+    "actual_ks": 6,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Tanner Gordon",
+    "team": "COL",
+    "matchup": "SDP @ COL",
+    "actual_ks": 3,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Seth Lugo",
+    "team": "KCR",
+    "matchup": "KCR @ HOU",
+    "actual_ks": 5,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Miguel Ullola",
+    "team": "HOU",
+    "matchup": "KCR @ HOU",
+    "actual_ks": 0,
+    "ip": "0.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Aaron Nola",
+    "team": "PHI",
+    "matchup": "PHI @ NYM",
+    "actual_ks": 4,
+    "ip": "7.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Nolan McLean",
+    "team": "NYM",
+    "matchup": "PHI @ NYM",
+    "actual_ks": 5,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Framber Valdez",
+    "team": "DET",
+    "matchup": "DET @ CWS",
+    "actual_ks": 8,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Erick Fedde",
+    "team": "CWS",
+    "matchup": "DET @ CWS",
+    "actual_ks": 6,
+    "ip": "4.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Sonny Gray",
+    "team": "BOS",
+    "matchup": "BOS @ TEX",
+    "actual_ks": 6,
+    "ip": "6.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Tyler Alexander",
+    "team": "TEX",
+    "matchup": "BOS @ TEX",
+    "actual_ks": 0,
+    "ip": "1.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Taj Bradley",
+    "team": "MIN",
+    "matchup": "MIN @ LAA",
+    "actual_ks": 9,
+    "ip": "7.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Walbert Ure\u00f1a",
+    "team": "LAA",
+    "matchup": "MIN @ LAA",
+    "actual_ks": 9,
+    "ip": "7.0",
+    "final_status": "Final"
+  }
+]
