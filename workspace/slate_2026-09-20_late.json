@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "Milwaukee Brewers",
+      "home_team": "Baltimore Orioles",
+      "away_sp": {
+        "name": "Jacob Misiorowski",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Brandon Young",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-20T19:20:00+00:00",
+      "park": "Oriole Park at Camden Yards",
+      "park_team": "BAL",
+      "weather": "81F, Cloudy, Wind 6 mph, Out To RF",
+      "ppd_pct": 13,
+      "indoor": false,
+      "status": "Warmup"
+    }
+  ]
+}
