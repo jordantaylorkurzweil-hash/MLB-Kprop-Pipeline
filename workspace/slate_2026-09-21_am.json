@@ -1,0 +1,73 @@
+{
+  "games": [
+    {
+      "away_team": "Toronto Blue Jays",
+      "home_team": "Baltimore Orioles",
+      "away_sp": {
+        "name": "Trey Yesavage",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Shane Baz",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-21T18:35:00+00:00",
+      "park": "Oriole Park at Camden Yards",
+      "park_team": "BAL",
+      "weather": "69F, Partly Cloudy, Wind 9 mph, In From CF",
+      "ppd_pct": 24,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Washington Nationals",
+      "home_team": "Detroit Tigers",
+      "away_sp": {
+        "name": "DJ Herz",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "River Ryan",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-21T18:40:00+00:00",
+      "park": "Comerica Park",
+      "park_team": "DET",
+      "weather": "61F, Partly Cloudy, Wind 12 mph, L To R",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Minnesota Twins",
+      "home_team": "San Francisco Giants",
+      "away_sp": {
+        "name": "Zebby Matthews",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Blade Tidwell",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-21T21:45:00+00:00",
+      "park": "Oracle Park",
+      "park_team": "SFG",
+      "weather": "",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Scheduled"
+    }
+  ]
+}
