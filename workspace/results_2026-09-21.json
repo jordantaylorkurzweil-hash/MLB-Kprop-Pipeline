@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Trey Yesavage",
+    "team": "TOR",
+    "matchup": "TOR @ BAL",
+    "actual_ks": 3,
+    "ip": "2.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Shane Baz",
+    "team": "BAL",
+    "matchup": "TOR @ BAL",
+    "actual_ks": 2,
+    "ip": "6.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "DJ Herz",
+    "team": "WSN",
+    "matchup": "WSN @ DET",
+    "actual_ks": 4,
+    "ip": "4.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "River Ryan",
+    "team": "DET",
+    "matchup": "WSN @ DET",
+    "actual_ks": 3,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Zebby Matthews",
+    "team": "MIN",
+    "matchup": "MIN @ SFG",
+    "actual_ks": 9,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Blade Tidwell",
+    "team": "SFG",
+    "matchup": "MIN @ SFG",
+    "actual_ks": 4,
+    "ip": "3.1",
+    "final_status": "Final"
+  }
+]
