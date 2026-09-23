@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Nick Martinez",
+    "team": "TBR",
+    "matchup": "TBR @ NYY",
+    "actual_ks": 7,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Carlos Rod\u00f3n",
+    "team": "NYY",
+    "matchup": "TBR @ NYY",
+    "actual_ks": 8,
+    "ip": "8.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Drew Rasmussen",
+    "team": "TBR",
+    "matchup": "TBR @ NYY",
+    "actual_ks": 11,
+    "ip": "6.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Max Fried",
+    "team": "NYY",
+    "matchup": "TBR @ NYY",
+    "actual_ks": 4,
+    "ip": "6.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Riley Cornelio",
+    "team": "WSN",
+    "matchup": "WSN @ DET",
+    "actual_ks": 4,
+    "ip": "2.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Drew Anderson",
+    "team": "DET",
+    "matchup": "WSN @ DET",
+    "actual_ks": 5,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Andre Pallante",
+    "team": "STL",
+    "matchup": "STL @ PIT",
+    "actual_ks": 2,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Jared Jones",
+    "team": "PIT",
+    "matchup": "STL @ PIT",
+    "actual_ks": 9,
+    "ip": "7.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Dustin May",
+    "team": "MIL",
+    "matchup": "MIL @ PHI",
+    "actual_ks": 2,
+    "ip": "2.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Zack Wheeler",
+    "team": "PHI",
+    "matchup": "MIL @ PHI",
+    "actual_ks": 11,
+    "ip": "5.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Parker Messick",
+    "team": "CLE",
+    "matchup": "CLE @ BOS",
+    "actual_ks": 5,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Payton Tolle",
+    "team": "BOS",
+    "matchup": "CLE @ BOS",
+    "actual_ks": 5,
+    "ip": "5.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Brandon Williamson",
+    "team": "CIN",
+    "matchup": "CIN @ ATL",
+    "actual_ks": 2,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "JR Ritchie",
+    "team": "ATL",
+    "matchup": "CIN @ ATL",
+    "actual_ks": 8,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Anthony Kay",
+    "team": "CWS",
+    "matchup": "CWS @ KCR",
+    "actual_ks": 4,
+    "ip": "4.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Daniel Lynch IV",
+    "team": "KCR",
+    "matchup": "CWS @ KCR",
+    "actual_ks": 2,
+    "ip": "4.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Janson Junk",
+    "team": "MIA",
+    "matchup": "MIA @ CHC",
+    "actual_ks": 6,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Shota Imanaga",
+    "team": "CHC",
+    "matchup": "MIA @ CHC",
+    "actual_ks": 7,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Sean Manaea",
+    "team": "NYM",
+    "matchup": "NYM @ TEX",
+    "actual_ks": 9,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "MacKenzie Gore",
+    "team": "TEX",
+    "matchup": "NYM @ TEX",
+    "actual_ks": 2,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Michael Soroka",
+    "team": "ARI",
+    "matchup": "ARI @ COL",
+    "actual_ks": 9,
+    "ip": "7.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Kyle Freeland",
+    "team": "COL",
+    "matchup": "ARI @ COL",
+    "actual_ks": 2,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Yusei Kikuchi",
+    "team": "LAA",
+    "matchup": "LAA @ ATH",
+    "actual_ks": 2,
+    "ip": "5.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Brady Basso",
+    "team": "ATH",
+    "matchup": "LAA @ ATH",
+    "actual_ks": 2,
+    "ip": "2.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Cristian Javier",
+    "team": "HOU",
+    "matchup": "HOU @ SEA",
+    "actual_ks": 2,
+    "ip": "2.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Logan Gilbert",
+    "team": "SEA",
+    "matchup": "HOU @ SEA",
+    "actual_ks": 3,
+    "ip": "4.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Taj Bradley",
+    "team": "MIN",
+    "matchup": "MIN @ SFG",
+    "actual_ks": 6,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Anthony Molina",
+    "team": "SFG",
+    "matchup": "MIN @ SFG",
+    "actual_ks": 6,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Michael King",
+    "team": "SDP",
+    "matchup": "SDP @ LAD",
+    "actual_ks": 5,
+    "ip": "4.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Brock Stewart",
+    "team": "LAD",
+    "matchup": "SDP @ LAD",
+    "actual_ks": 1,
+    "ip": "1.0",
+    "final_status": "Final"
+  }
+]
