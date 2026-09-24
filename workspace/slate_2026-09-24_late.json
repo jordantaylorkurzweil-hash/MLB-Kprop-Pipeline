@@ -1,0 +1,119 @@
+{
+  "games": [
+    {
+      "away_team": "Tampa Bay Rays",
+      "home_team": "New York Yankees",
+      "away_sp": {
+        "name": "Ian Seymour",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Cam Schlittler",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-24T19:05:00+00:00",
+      "park": "Yankee Stadium",
+      "park_team": "NYY",
+      "weather": "64F, Partly Cloudy, Wind 13 mph, In From LF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Cincinnati Reds",
+      "home_team": "Atlanta Braves",
+      "away_sp": {
+        "name": "Brady Singer",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Tyler Mahle",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-24T19:15:00+00:00",
+      "park": "Truist Park",
+      "park_team": "ATL",
+      "weather": "70F, Clear, Wind 8 mph, L To R",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Houston Astros",
+      "home_team": "Athletics",
+      "away_sp": {
+        "name": "Peter Lambert",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Mason Barnett",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-24T21:40:00+00:00",
+      "park": "Sutter Health Park",
+      "park_team": "ATH",
+      "weather": "92F, Cloudy, Wind 6 mph, Out To RF",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Los Angeles Angels",
+      "home_team": "Seattle Mariners",
+      "away_sp": {
+        "name": "Grayson Rodriguez",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Bryan Woo",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-24T21:40:00+00:00",
+      "park": "T-Mobile Park",
+      "park_team": "SEA",
+      "weather": "60F, Cloudy, Wind 5 mph, In From CF",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "San Diego Padres",
+      "home_team": "Los Angeles Dodgers",
+      "away_sp": {
+        "name": "Nick Pivetta",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Tyler Glasnow",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-24T22:10:00+00:00",
+      "park": "UNIQLO Field at Dodger Stadium",
+      "park_team": "LAD",
+      "weather": "82F, Clear, Wind 7 mph, Out To RF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
