@@ -1,0 +1,165 @@
+{
+  "games": [
+    {
+      "away_team": "Cleveland Guardians",
+      "home_team": "Kansas City Royals",
+      "away_sp": {
+        "name": "Tanner Bibee",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Michael Wacha",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-26T19:10:00+00:00",
+      "park": "Kauffman Stadium",
+      "park_team": "KCR",
+      "weather": "74F, Partly Cloudy, Wind 5 mph, R To L",
+      "ppd_pct": 6,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Colorado Rockies",
+      "home_team": "Chicago White Sox",
+      "away_sp": {
+        "name": "Jose Quintana",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Davis Martin",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-26T19:10:00+00:00",
+      "park": "Rate Field",
+      "park_team": "CWS",
+      "weather": "64F, Partly Cloudy, Wind 8 mph, L To R",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "St. Louis Cardinals",
+      "home_team": "Milwaukee Brewers",
+      "away_sp": {
+        "name": "Quinn Mathews",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Dustin May",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-26T19:10:00+00:00",
+      "park": "American Family Field",
+      "park_team": "MIL",
+      "weather": "70F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Philadelphia Phillies",
+      "away_sp": {
+        "name": "Griffin Jax",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Aaron Nola",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-26T19:15:00+00:00",
+      "park": "Citizens Bank Park",
+      "park_team": "PHI",
+      "weather": "62F, Cloudy, Wind 14 mph, In From CF",
+      "ppd_pct": 22,
+      "indoor": false,
+      "status": "Warmup"
+    },
+    {
+      "away_team": "Arizona Diamondbacks",
+      "home_team": "San Diego Padres",
+      "away_sp": {
+        "name": "Taylor Clarke",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Walker Buehler",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-26T20:40:00+00:00",
+      "park": "Petco Park",
+      "park_team": "SDP",
+      "weather": "79F, Partly Cloudy, Wind 9 mph, L To R",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Houston Astros",
+      "home_team": "Athletics",
+      "away_sp": {
+        "name": "Hayden Wesneski",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Jack Perkins",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-26T21:40:00+00:00",
+      "park": "Sutter Health Park",
+      "park_team": "ATH",
+      "weather": "79F, Partly Cloudy, Wind 7 mph, Out To CF",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Los Angeles Angels",
+      "home_team": "Seattle Mariners",
+      "away_sp": {
+        "name": "Ryan Johnson",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Kade Anderson",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-26T21:40:00+00:00",
+      "park": "T-Mobile Park",
+      "park_team": "SEA",
+      "weather": "59F, Partly Cloudy, Wind 9 mph, In From LF",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    }
+  ]
+}
