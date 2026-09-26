@@ -1,0 +1,234 @@
+{
+  "games": [
+    {
+      "away_team": "Cincinnati Reds",
+      "home_team": "Toronto Blue Jays",
+      "away_sp": {
+        "name": "Nick Lodolo",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Jos\u00e9 Soriano",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-25T19:07:00+00:00",
+      "park": "Rogers Centre",
+      "park_team": "TOR",
+      "weather": "61F, Clear, Wind 6 mph, Out To RF",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Atlanta Braves",
+      "home_team": "Miami Marlins",
+      "away_sp": {
+        "name": "Ray Kerr",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Eury P\u00e9rez",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-25T19:10:00+00:00",
+      "park": "loanDepot park",
+      "park_team": "MIA",
+      "weather": "72F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Cleveland Guardians",
+      "home_team": "Kansas City Royals",
+      "away_sp": {
+        "name": "Gavin Williams",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Noah Cameron",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-25T19:40:00+00:00",
+      "park": "Kauffman Stadium",
+      "park_team": "KCR",
+      "weather": "64F, Rain, Wind 8 mph, R To L",
+      "ppd_pct": 2,
+      "indoor": false,
+      "status": "Warmup"
+    },
+    {
+      "away_team": "Colorado Rockies",
+      "home_team": "Chicago White Sox",
+      "away_sp": {
+        "name": "Tomoyuki Sugano",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Sean Burke",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-25T19:40:00+00:00",
+      "park": "Rate Field",
+      "park_team": "CWS",
+      "weather": "63F, Cloudy, Wind 6 mph, In From LF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "St. Louis Cardinals",
+      "home_team": "Milwaukee Brewers",
+      "away_sp": {
+        "name": "Michael McGreevy",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Robert Gasser",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-25T19:40:00+00:00",
+      "park": "American Family Field",
+      "park_team": "MIL",
+      "weather": "69F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Texas Rangers",
+      "home_team": "Minnesota Twins",
+      "away_sp": {
+        "name": "Jacob deGrom",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Joe Ryan",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-25T20:10:00+00:00",
+      "park": "Target Field",
+      "park_team": "MIN",
+      "weather": "68F, Cloudy, Wind 9 mph, In From RF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Warmup"
+    },
+    {
+      "away_team": "Houston Astros",
+      "home_team": "Athletics",
+      "away_sp": {
+        "name": "Hunter Brown",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Jacob Lopez",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-25T21:40:00+00:00",
+      "park": "Sutter Health Park",
+      "park_team": "ATH",
+      "weather": "82F, Clear, Wind 11 mph, Out To CF",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Arizona Diamondbacks",
+      "home_team": "San Diego Padres",
+      "away_sp": {
+        "name": "Brandon Pfaadt",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Casey Mize",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-25T21:40:00+00:00",
+      "park": "Petco Park",
+      "park_team": "SDP",
+      "weather": "75F, Clear, Wind 10 mph, In From LF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Los Angeles Angels",
+      "home_team": "Seattle Mariners",
+      "away_sp": {
+        "name": "Reid Detmers",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Bryce Miller",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-25T22:10:00+00:00",
+      "park": "T-Mobile Park",
+      "park_team": "SEA",
+      "weather": "72F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Los Angeles Dodgers",
+      "home_team": "San Francisco Giants",
+      "away_sp": {
+        "name": "Tarik Skubal",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Yunior Marte",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-25T22:15:00+00:00",
+      "park": "Oracle Park",
+      "park_team": "SFG",
+      "weather": "61F, Clear, Wind 17 mph, Out To CF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
