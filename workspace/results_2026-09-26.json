@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Jonah Tong",
+    "team": "NYM",
+    "matchup": "NYM @ WSN",
+    "actual_ks": 9,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Connelly Early",
+    "team": "WSN",
+    "matchup": "NYM @ WSN",
+    "actual_ks": 1,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Kirby Yates",
+    "team": "PIT",
+    "matchup": "PIT @ DET",
+    "actual_ks": 1,
+    "ip": "1.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Justin Verlander",
+    "team": "DET",
+    "matchup": "PIT @ DET",
+    "actual_ks": 6,
+    "ip": "5.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Rhett Lowder",
+    "team": "CIN",
+    "matchup": "CIN @ TOR",
+    "actual_ks": 2,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Trey Yesavage",
+    "team": "TOR",
+    "matchup": "CIN @ TOR",
+    "actual_ks": 3,
+    "ip": "2.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Blake Snell",
+    "team": "LAD",
+    "matchup": "LAD @ SFG",
+    "actual_ks": 3,
+    "ip": "4.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Matt Wilkinson",
+    "team": "SFG",
+    "matchup": "LAD @ SFG",
+    "actual_ks": 2,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Nathan Eovaldi",
+    "team": "TEX",
+    "matchup": "TEX @ MIN",
+    "actual_ks": 3,
+    "ip": "4.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Bailey Ober",
+    "team": "MIN",
+    "matchup": "TEX @ MIN",
+    "actual_ks": 5,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Brent Suter",
+    "team": "ATL",
+    "matchup": "ATL @ MIA",
+    "actual_ks": 3,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Jack Ralston",
+    "team": "MIA",
+    "matchup": "ATL @ MIA",
+    "actual_ks": 2,
+    "ip": "1.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Tanner Bibee",
+    "team": "CLE",
+    "matchup": "CLE @ KCR",
+    "actual_ks": 6,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Michael Wacha",
+    "team": "KCR",
+    "matchup": "CLE @ KCR",
+    "actual_ks": 4,
+    "ip": "6.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Jose Quintana",
+    "team": "COL",
+    "matchup": "COL @ CWS",
+    "actual_ks": 3,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Davis Martin",
+    "team": "CWS",
+    "matchup": "COL @ CWS",
+    "actual_ks": 1,
+    "ip": "0.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Quinn Mathews",
+    "team": "STL",
+    "matchup": "STL @ MIL",
+    "actual_ks": 7,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Dustin May",
+    "team": "MIL",
+    "matchup": "STL @ MIL",
+    "actual_ks": 5,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Griffin Jax",
+    "team": "TBR",
+    "matchup": "TBR @ PHI",
+    "actual_ks": 1,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Aaron Nola",
+    "team": "PHI",
+    "matchup": "TBR @ PHI",
+    "actual_ks": 0,
+    "ip": "1.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Taylor Clarke",
+    "team": "ARI",
+    "matchup": "ARI @ SDP",
+    "actual_ks": 0,
+    "ip": "0.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Walker Buehler",
+    "team": "SDP",
+    "matchup": "ARI @ SDP",
+    "actual_ks": 3,
+    "ip": "3.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Hayden Wesneski",
+    "team": "HOU",
+    "matchup": "HOU @ ATH",
+    "actual_ks": 5,
+    "ip": "7.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Jack Perkins",
+    "team": "ATH",
+    "matchup": "HOU @ ATH",
+    "actual_ks": 9,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Ryan Johnson",
+    "team": "LAA",
+    "matchup": "LAA @ SEA",
+    "actual_ks": 3,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Kade Anderson",
+    "team": "SEA",
+    "matchup": "LAA @ SEA",
+    "actual_ks": 4,
+    "ip": "3.1",
+    "final_status": "Final"
+  }
+]
