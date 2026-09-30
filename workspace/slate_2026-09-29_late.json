@@ -1,0 +1,50 @@
+{
+  "games": [
+    {
+      "away_team": "Boston Red Sox",
+      "home_team": "New York Yankees",
+      "away_sp": {
+        "name": "Payton Tolle",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Cam Schlittler",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-29T20:00:00+00:00",
+      "park": "Yankee Stadium",
+      "park_team": "NYY",
+      "weather": "67F, Cloudy, Wind 8 mph, L To R",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Chicago Cubs",
+      "home_team": "San Diego Padres",
+      "away_sp": {
+        "name": "Matthew Boyd",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Michael King",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-29T22:00:00+00:00",
+      "park": "Petco Park",
+      "park_team": "SDP",
+      "weather": "77F, Clear, Wind 4 mph, L To R",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
