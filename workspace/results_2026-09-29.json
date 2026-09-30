@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Jes\u00fas Luzardo",
+    "team": "PHI",
+    "matchup": "PHI @ ATL",
+    "actual_ks": 6,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Chris Sale",
+    "team": "ATL",
+    "matchup": "PHI @ ATL",
+    "actual_ks": 9,
+    "ip": "6.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Hagen Smith",
+    "team": "CWS",
+    "matchup": "CWS @ HOU",
+    "actual_ks": 1,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "AJ Blubaugh",
+    "team": "HOU",
+    "matchup": "CWS @ HOU",
+    "actual_ks": 0,
+    "ip": "0.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Payton Tolle",
+    "team": "BOS",
+    "matchup": "BOS @ NYY",
+    "actual_ks": 4,
+    "ip": "4.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Cam Schlittler",
+    "team": "NYY",
+    "matchup": "BOS @ NYY",
+    "actual_ks": 10,
+    "ip": "6.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Matthew Boyd",
+    "team": "CHC",
+    "matchup": "CHC @ SDP",
+    "actual_ks": 4,
+    "ip": "4.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Michael King",
+    "team": "SDP",
+    "matchup": "CHC @ SDP",
+    "actual_ks": 8,
+    "ip": "7.0",
+    "final_status": "Final"
+  }
+]
