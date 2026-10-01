@@ -1,0 +1,50 @@
+{
+  "games": [
+    {
+      "away_team": "Boston Red Sox",
+      "home_team": "New York Yankees",
+      "away_sp": {
+        "name": "Sonny Gray",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Max Fried",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-30T20:00:00+00:00",
+      "park": "Yankee Stadium",
+      "park_team": "NYY",
+      "weather": "68F, Cloudy, Wind 5 mph, Varies",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Chicago Cubs",
+      "home_team": "San Diego Padres",
+      "away_sp": {
+        "name": "Kevin Gausman",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Nick Pivetta",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-09-30T22:00:00+00:00",
+      "park": "Petco Park",
+      "park_team": "SDP",
+      "weather": "70F, Partly Cloudy, Wind 4 mph, In From RF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    }
+  ]
+}
