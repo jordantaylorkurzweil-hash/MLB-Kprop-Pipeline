@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "Philadelphia Phillies",
+      "home_team": "Atlanta Braves",
+      "away_sp": {
+        "name": "Aaron Nola",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Ray Kerr",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-01T20:00:00+00:00",
+      "park": "Truist Park",
+      "park_team": "ATL",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Scheduled"
+    }
+  ]
+}
