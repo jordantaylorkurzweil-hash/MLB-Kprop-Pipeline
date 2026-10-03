@@ -1,0 +1,96 @@
+{
+  "games": [
+    {
+      "away_team": "Chicago White Sox",
+      "home_team": "Cleveland Guardians",
+      "away_sp": {
+        "name": "Hagen Smith",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Parker Messick",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-03T13:00:00+00:00",
+      "park": "Progressive Field",
+      "park_team": "CLE",
+      "weather": "63F, Partly Cloudy, Wind 9 mph, R To L",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Atlanta Braves",
+      "home_team": "Los Angeles Dodgers",
+      "away_sp": {
+        "name": "Dylan Dodd",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Tarik Skubal",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-03T16:00:00+00:00",
+      "park": "UNIQLO Field at Dodger Stadium",
+      "park_team": "LAD",
+      "weather": "94F, Sunny, Wind 2 mph, Varies",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "New York Yankees",
+      "home_team": "Tampa Bay Rays",
+      "away_sp": {
+        "name": "Gerrit Cole",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Drew Rasmussen",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-03T18:30:00+00:00",
+      "park": "Tropicana Field",
+      "park_team": "TBR",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Scheduled"
+    },
+    {
+      "away_team": "San Diego Padres",
+      "home_team": "Milwaukee Brewers",
+      "away_sp": {
+        "name": "Robbie Ray",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Jacob Misiorowski",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-03T20:30:00+00:00",
+      "park": "American Family Field",
+      "park_team": "MIL",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Scheduled"
+    }
+  ]
+}
