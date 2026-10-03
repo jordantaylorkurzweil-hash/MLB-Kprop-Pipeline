@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "San Diego Padres",
+      "home_team": "Milwaukee Brewers",
+      "away_sp": {
+        "name": "Robbie Ray",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Jacob Misiorowski",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-03T20:30:00+00:00",
+      "park": "American Family Field",
+      "park_team": "MIL",
+      "weather": "71F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    }
+  ]
+}
