@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Hagen Smith",
+    "team": "CWS",
+    "matchup": "CWS @ CLE",
+    "actual_ks": 4,
+    "ip": "2.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Parker Messick",
+    "team": "CLE",
+    "matchup": "CWS @ CLE",
+    "actual_ks": 6,
+    "ip": "4.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Dylan Dodd",
+    "team": "ATL",
+    "matchup": "ATL @ LAD",
+    "actual_ks": 4,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Tarik Skubal",
+    "team": "LAD",
+    "matchup": "ATL @ LAD",
+    "actual_ks": 7,
+    "ip": "6.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Gerrit Cole",
+    "team": "NYY",
+    "matchup": "NYY @ TBR",
+    "actual_ks": 5,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Drew Rasmussen",
+    "team": "TBR",
+    "matchup": "NYY @ TBR",
+    "actual_ks": 10,
+    "ip": "8.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Robbie Ray",
+    "team": "SDP",
+    "matchup": "SDP @ MIL",
+    "actual_ks": 1,
+    "ip": "2.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Jacob Misiorowski",
+    "team": "MIL",
+    "matchup": "SDP @ MIL",
+    "actual_ks": 6,
+    "ip": "4.0",
+    "final_status": "Final"
+  }
+]
