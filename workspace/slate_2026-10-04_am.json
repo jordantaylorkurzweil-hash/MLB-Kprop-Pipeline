@@ -1,0 +1,50 @@
+{
+  "games": [
+    {
+      "away_team": "San Diego Padres",
+      "home_team": "Milwaukee Brewers",
+      "away_sp": {
+        "name": "Michael King",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Logan Henderson",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-04T16:00:00+00:00",
+      "park": "American Family Field",
+      "park_team": "MIL",
+      "weather": "69F, Roof Closed, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Atlanta Braves",
+      "home_team": "Los Angeles Dodgers",
+      "away_sp": {
+        "name": "Ray Kerr",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Blake Snell",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-04T20:00:00+00:00",
+      "park": "UNIQLO Field at Dodger Stadium",
+      "park_team": "LAD",
+      "weather": "",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Scheduled"
+    }
+  ]
+}
