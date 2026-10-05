@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "Atlanta Braves",
+      "home_team": "Los Angeles Dodgers",
+      "away_sp": {
+        "name": "Ray Kerr",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Blake Snell",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-04T20:00:00+00:00",
+      "park": "UNIQLO Field at Dodger Stadium",
+      "park_team": "LAD",
+      "weather": "88F, Partly Cloudy, Wind 4 mph, Varies",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "In Progress"
+    }
+  ]
+}
