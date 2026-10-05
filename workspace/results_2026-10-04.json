@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Michael King",
+    "team": "SDP",
+    "matchup": "SDP @ MIL",
+    "actual_ks": 6,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Logan Henderson",
+    "team": "MIL",
+    "matchup": "SDP @ MIL",
+    "actual_ks": 4,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Ray Kerr",
+    "team": "ATL",
+    "matchup": "ATL @ LAD",
+    "actual_ks": 4,
+    "ip": "2.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Blake Snell",
+    "team": "LAD",
+    "matchup": "ATL @ LAD",
+    "actual_ks": 5,
+    "ip": "3.2",
+    "final_status": "Final"
+  }
+]
