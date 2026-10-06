@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Anthony Kay",
+    "team": "CWS",
+    "matchup": "CWS @ CLE",
+    "actual_ks": 0,
+    "ip": "0.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Gavin Williams",
+    "team": "CLE",
+    "matchup": "CWS @ CLE",
+    "actual_ks": 11,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Cam Schlittler",
+    "team": "NYY",
+    "matchup": "NYY @ TBR",
+    "actual_ks": 2,
+    "ip": "4.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Freddy Peralta",
+    "team": "TBR",
+    "matchup": "NYY @ TBR",
+    "actual_ks": 3,
+    "ip": "4.2",
+    "final_status": "Final"
+  }
+]
