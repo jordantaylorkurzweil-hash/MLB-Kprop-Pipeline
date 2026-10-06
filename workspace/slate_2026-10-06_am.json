@@ -1,0 +1,50 @@
+{
+  "games": [
+    {
+      "away_team": "Los Angeles Dodgers",
+      "home_team": "Atlanta Braves",
+      "away_sp": {
+        "name": "Yoshinobu Yamamoto",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Chris Sale",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-06T18:00:00+00:00",
+      "park": "Truist Park",
+      "park_team": "ATL",
+      "weather": "76F, Clear, Wind 8 mph, In From LF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Milwaukee Brewers",
+      "home_team": "San Diego Padres",
+      "away_sp": {
+        "name": "Dustin May",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Nick Pivetta",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-06T21:30:00+00:00",
+      "park": "Petco Park",
+      "park_team": "SDP",
+      "weather": "",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "Scheduled"
+    }
+  ]
+}
