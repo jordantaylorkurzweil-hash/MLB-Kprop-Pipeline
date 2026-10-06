@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "New York Yankees",
+      "home_team": "Tampa Bay Rays",
+      "away_sp": {
+        "name": "Cam Schlittler",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Freddy Peralta",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-05T20:00:00+00:00",
+      "park": "Tropicana Field",
+      "park_team": "TBR",
+      "weather": "72F, Dome, Wind 0 mph, None",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "In Progress"
+    }
+  ]
+}

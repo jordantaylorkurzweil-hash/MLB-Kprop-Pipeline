@@ -2023,3 +2023,5 @@ date,slate,pitcher,team,matchup,K/9,IP,GS,ip_per_start,k9_bucket,v35_proj,v40_pr
 2026-10-05,AM,Gavin Williams,CLE,CWS @ CLE,10.64,113.1,19,5.95,9-11,5.73,5.13,-0.6,10.5,-4.77,-5.37,No call,,
 2026-10-05,AM,Cam Schlittler,NYY,NYY @ TBR,10.53,112,19,5.89,9-11,5.78,5.17,-0.61,6.5,-0.72,-1.33,No call,,
 2026-10-05,AM,Freddy Peralta,TBR,NYY @ TBR,8.82,100,19,5.26,7-9,5.37,5.55,0.18,4.5,0.87,1.05,No call,,
+2026-10-05,LATE,Cam Schlittler,NYY,NYY @ TBR,10.53,112,19,5.89,9-11,5.78,5.17,-0.61,4.5,1.28,0.67,No call,,
+2026-10-05,LATE,Freddy Peralta,TBR,NYY @ TBR,8.82,100,19,5.26,7-9,5.37,5.55,0.18,,,,No call,,
