@@ -1,0 +1,96 @@
+{
+  "games": [
+    {
+      "away_team": "Cleveland Guardians",
+      "home_team": "Chicago White Sox",
+      "away_sp": {
+        "name": "Daniel Espino",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Sean Newcomb",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-07T16:00:00+00:00",
+      "park": "Rate Field",
+      "park_team": "CWS",
+      "weather": "75F, Sunny, Wind 6 mph, L To R",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "In Progress"
+    },
+    {
+      "away_team": "Los Angeles Dodgers",
+      "home_team": "Atlanta Braves",
+      "away_sp": {
+        "name": "Tyler Glasnow",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Tyler Mahle",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-07T18:00:00+00:00",
+      "park": "Truist Park",
+      "park_team": "ATL",
+      "weather": "77F, Clear, Wind 2 mph, L To R",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Tampa Bay Rays",
+      "home_team": "New York Yankees",
+      "away_sp": {
+        "name": "Nick Martinez",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Max Fried",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-07T20:00:00+00:00",
+      "park": "Yankee Stadium",
+      "park_team": "NYY",
+      "weather": "61F, Clear, Wind 8 mph, R To L",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Pre-Game"
+    },
+    {
+      "away_team": "Milwaukee Brewers",
+      "home_team": "San Diego Padres",
+      "away_sp": {
+        "name": "TBD",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Walker Buehler",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-07T22:00:00+00:00",
+      "park": "Petco Park",
+      "park_team": "SDP",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Scheduled"
+    }
+  ]
+}
