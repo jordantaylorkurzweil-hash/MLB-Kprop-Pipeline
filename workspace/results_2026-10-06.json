@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Yoshinobu Yamamoto",
+    "team": "LAD",
+    "matchup": "LAD @ ATL",
+    "actual_ks": 10,
+    "ip": "7.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Chris Sale",
+    "team": "ATL",
+    "matchup": "LAD @ ATL",
+    "actual_ks": 7,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Dustin May",
+    "team": "MIL",
+    "matchup": "MIL @ SDP",
+    "actual_ks": 3,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Nick Pivetta",
+    "team": "SDP",
+    "matchup": "MIL @ SDP",
+    "actual_ks": 4,
+    "ip": "4.1",
+    "final_status": "Final"
+  }
+]
