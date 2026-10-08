@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Daniel Espino",
+    "team": "CLE",
+    "matchup": "CLE @ CWS",
+    "actual_ks": 2,
+    "ip": "0.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Sean Newcomb",
+    "team": "CWS",
+    "matchup": "CLE @ CWS",
+    "actual_ks": 1,
+    "ip": "2.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Tyler Glasnow",
+    "team": "LAD",
+    "matchup": "LAD @ ATL",
+    "actual_ks": 5,
+    "ip": "4.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Tyler Mahle",
+    "team": "ATL",
+    "matchup": "LAD @ ATL",
+    "actual_ks": 4,
+    "ip": "6.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Nick Martinez",
+    "team": "TBR",
+    "matchup": "TBR @ NYY",
+    "actual_ks": 3,
+    "ip": "3.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Max Fried",
+    "team": "NYY",
+    "matchup": "TBR @ NYY",
+    "actual_ks": 7,
+    "ip": "5.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Robert Gasser",
+    "team": "MIL",
+    "matchup": "MIL @ SDP",
+    "actual_ks": 3,
+    "ip": "4.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Walker Buehler",
+    "team": "SDP",
+    "matchup": "MIL @ SDP",
+    "actual_ks": 0,
+    "ip": "3.0",
+    "final_status": "Final"
+  }
+]
