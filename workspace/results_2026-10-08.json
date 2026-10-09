@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Parker Messick",
+    "team": "CLE",
+    "matchup": "CLE @ CWS",
+    "actual_ks": 5,
+    "ip": "2.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Hagen Smith",
+    "team": "CWS",
+    "matchup": "CLE @ CWS",
+    "actual_ks": 0,
+    "ip": "0.2",
+    "final_status": "Final"
+  }
+]
