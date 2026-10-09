@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "Cleveland Guardians",
+      "home_team": "Chicago White Sox",
+      "away_sp": {
+        "name": "Parker Messick",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Hagen Smith",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-08T20:00:00+00:00",
+      "park": "Rate Field",
+      "park_team": "CWS",
+      "weather": "65F, Clear, Wind 3 mph, In From CF",
+      "ppd_pct": 1,
+      "indoor": false,
+      "status": "In Progress"
+    }
+  ]
+}
