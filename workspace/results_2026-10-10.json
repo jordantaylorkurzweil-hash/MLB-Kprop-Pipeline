@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Sean Burke",
+    "team": "CWS",
+    "matchup": "CWS @ CLE",
+    "actual_ks": 4,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Gavin Williams",
+    "team": "CLE",
+    "matchup": "CWS @ CLE",
+    "actual_ks": 12,
+    "ip": "5.2",
+    "final_status": "Final"
+  }
+]
