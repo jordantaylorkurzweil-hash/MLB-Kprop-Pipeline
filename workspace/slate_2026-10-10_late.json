@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "Chicago White Sox",
+      "home_team": "Cleveland Guardians",
+      "away_sp": {
+        "name": "Sean Burke",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Gavin Williams",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-10T20:00:00+00:00",
+      "park": "Progressive Field",
+      "park_team": "CLE",
+      "weather": "65F, Drizzle, Wind 11 mph, Out To CF",
+      "ppd_pct": 14,
+      "indoor": false,
+      "status": "In Progress"
+    }
+  ]
+}
