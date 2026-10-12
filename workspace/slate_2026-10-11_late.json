@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "Los Angeles Dodgers",
+      "home_team": "Milwaukee Brewers",
+      "away_sp": {
+        "name": "Tarik Skubal",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Jacob Misiorowski",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-11T20:00:00+00:00",
+      "park": "American Family Field",
+      "park_team": "MIL",
+      "weather": "71F, Clear, Wind 5 mph, R To L",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "In Progress"
+    }
+  ]
+}
