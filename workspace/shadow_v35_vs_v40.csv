@@ -2049,3 +2049,5 @@ date,slate,pitcher,team,matchup,K/9,IP,GS,ip_per_start,k9_bucket,v35_proj,v40_pr
 2026-10-12,AM,Yoshinobu Yamamoto,LAD,LAD @ MIL,8.6,104.2,16,6.51,7-9,6.04,5.79,-0.25,,,,No call,,
 2026-10-12,AM,Foster Griffin,CLE,CLE @ TBR,8.89,110.1,19,5.79,7-9,5.61,5.32,-0.29,3.5,2.11,1.82,No call,,
 2026-10-12,AM,Drew Rasmussen,TBR,CLE @ TBR,8.88,99.1,18,5.51,7-9,5.38,5.8,0.42,5.5,-0.12,0.3,No call,,
+2026-10-12,LATE,Foster Griffin,CLE,CLE @ TBR,8.89,110.1,19,5.79,7-9,5.61,5.32,-0.29,,,,No call,,
+2026-10-12,LATE,Drew Rasmussen,TBR,CLE @ TBR,8.88,99.1,18,5.51,7-9,5.38,5.8,0.42,,,,No call,,
