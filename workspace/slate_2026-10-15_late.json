@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "Milwaukee Brewers",
+      "home_team": "Los Angeles Dodgers",
+      "away_sp": {
+        "name": "Shane Drohan",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Tyler Glasnow",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-15T20:00:00+00:00",
+      "park": "UNIQLO Field at Dodger Stadium",
+      "park_team": "LAD",
+      "weather": "89F, Clear, Wind 4 mph, Out To RF",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Warmup"
+    }
+  ]
+}
