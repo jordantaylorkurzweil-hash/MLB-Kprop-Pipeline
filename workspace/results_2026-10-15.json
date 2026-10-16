@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Griffin Jax",
+    "team": "TBR",
+    "matchup": "TBR @ CLE",
+    "actual_ks": 2,
+    "ip": "4.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Gavin Williams",
+    "team": "CLE",
+    "matchup": "TBR @ CLE",
+    "actual_ks": 9,
+    "ip": "5.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Shane Drohan",
+    "team": "MIL",
+    "matchup": "MIL @ LAD",
+    "actual_ks": 1,
+    "ip": "1.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Tyler Glasnow",
+    "team": "LAD",
+    "matchup": "MIL @ LAD",
+    "actual_ks": 6,
+    "ip": "4.1",
+    "final_status": "Final"
+  }
+]
