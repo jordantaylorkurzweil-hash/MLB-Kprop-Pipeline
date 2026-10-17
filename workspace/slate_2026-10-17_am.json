@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Cleveland Guardians",
+      "away_sp": {
+        "name": "Nick Martinez",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Shawn Armstrong",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-17T20:08:00+00:00",
+      "park": "Progressive Field",
+      "park_team": "CLE",
+      "weather": "",
+      "ppd_pct": 0,
+      "indoor": false,
+      "status": "Scheduled"
+    }
+  ]
+}
