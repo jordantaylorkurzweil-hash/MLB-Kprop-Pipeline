@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Nick Martinez",
+    "team": "TBR",
+    "matchup": "TBR @ CLE",
+    "actual_ks": 3,
+    "ip": "5.1",
+    "final_status": "Final"
+  },
+  {
+    "name": "Shawn Armstrong",
+    "team": "CLE",
+    "matchup": "TBR @ CLE",
+    "actual_ks": 1,
+    "ip": "1.0",
+    "final_status": "Final"
+  }
+]

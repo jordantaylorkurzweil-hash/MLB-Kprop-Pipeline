@@ -1,0 +1,3 @@
+date,pitcher,team,matchup,time,slate,park,classification,multiplier,GS,IP,K/9,SwStr%,CSW%,Whiff%,K%,BB%,Proj Ks,DK Line,DK Over,DK Under,FD Line,FD Over,FD Under,Best Line,Best Under,Best Under Book,Residual,BF Call,BF Reason,Lineup Confirmed,PPD%,Rule 5,Actual Ks,Actual IP,Actual BF,Outs Recorded,Final Score,Result,Notes
+2026-10-17,Nick Martinez,TBR,TBR @ CLE,2026-10-17T20:08:00+00:00,late,CLE,Mixed,0.91,17,100,5.49,8.351026000000001,25.548478000000003,,,,4.29,2.5,129,-165,2.5,134,-172,2.5,-172,FD,1.79,No call,residual +1.79 > -0.75,Projected,0.0,Pass,3,5.1,,,Final,OVER,
+2026-10-17,Shawn Armstrong,CLE,TBR @ CLE,2026-10-17T20:08:00+00:00,late,CLE,Mixed,0.91,0,28.1,8.894119842424242,9.589041,23.287671,,,,,,,,,,,,,,,Watch List,GS=0 < 10,Projected,0,Fail,1,1.0,,,Final,,
