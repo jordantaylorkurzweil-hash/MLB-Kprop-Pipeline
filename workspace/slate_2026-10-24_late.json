@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "away_team": "Tampa Bay Rays",
+      "home_team": "Milwaukee Brewers",
+      "away_sp": {
+        "name": "Drew Rasmussen",
+        "throws": "R"
+      },
+      "home_sp": {
+        "name": "Logan Henderson",
+        "throws": "R"
+      },
+      "away_lineup": [],
+      "home_lineup": [],
+      "away_lineup_status": "PROJECTED",
+      "home_lineup_status": "PROJECTED",
+      "first_pitch_et": "2026-10-24T20:00:00+00:00",
+      "park": "American Family Field",
+      "park_team": "MIL",
+      "weather": "70F, Roof Closed, Wind 1 mph, R To L",
+      "ppd_pct": 0,
+      "indoor": true,
+      "status": "Pre-Game"
+    }
+  ]
+}
