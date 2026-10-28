@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Dustin May",
+    "team": "MIL",
+    "matchup": "MIL @ TBR",
+    "actual_ks": 3,
+    "ip": "3.0",
+    "final_status": "Final"
+  },
+  {
+    "name": "Griffin Jax",
+    "team": "TBR",
+    "matchup": "MIL @ TBR",
+    "actual_ks": 6,
+    "ip": "4.0",
+    "final_status": "Final"
+  }
+]
