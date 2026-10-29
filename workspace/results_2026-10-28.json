@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Jacob Misiorowski",
+    "team": "MIL",
+    "matchup": "MIL @ TBR",
+    "actual_ks": 2,
+    "ip": "5.2",
+    "final_status": "Final"
+  },
+  {
+    "name": "Drew Rasmussen",
+    "team": "TBR",
+    "matchup": "MIL @ TBR",
+    "actual_ks": 4,
+    "ip": "4.0",
+    "final_status": "Final"
+  }
+]
